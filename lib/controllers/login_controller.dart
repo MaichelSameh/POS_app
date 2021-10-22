@@ -1,11 +1,7 @@
-import 'dart:convert';
 import 'package:get/get.dart';
-import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../models/models.dart';
-import '../config/server_config.dart';
-import 'localization_controller.dart';
 
 class LoginController extends GetxController {
   //adding email field to hold the email in case we need to use it later for example when we try to send a reset code
@@ -27,57 +23,13 @@ class LoginController extends GetxController {
     required String functionName,
     required String data,
   }) {
+    // ignore: avoid_print
     print("LOGIN_CONTROLLER $functionName $variableName: $data");
   }
 
   //trying to login and register the user data
   Future<bool> login(String email, String password) async {
     return true;
-    try {
-      //creating the url for the login method
-      final Uri loginURI =
-          Uri.https(ServerConfig.server_base_link, ServerConfig.login_request);
-      //sending a post request to register the user in
-      final http.Response res = await http.post(
-        loginURI,
-        headers: {
-          //the response data format
-          "Accept": ServerConfig.response_format,
-        },
-        body: json.encode({
-          //sending the required information to log the user in
-          "email": email,
-          "password": password,
-        }),
-      );
-      //getting the response body data
-      Map<String, dynamic> resData = json.decode(res.body);
-      //checking if the request completed successfully
-      if (res.statusCode == 200) {
-        //getting the tokenid from the response
-        _tokenid = resData["data"]["token"];
-        //saving the employee data with the api
-        await _saveLoginData(tokenid, email, password);
-        //converting the response body from json to a map
-        _currentUser = UserInfo.fromJSON(resData["data"]);
-        _saveUserData(_currentUser.firstName, _currentUser.id);
-        return true;
-      } else if (res.statusCode == 401) {
-        //flushing the token to start a new session
-        Get.find<LoginController>().tryAutoLogin();
-        //throwing the error message
-        throw throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-      return false;
-    } catch (error) {
-      echo(
-        variableName: "error",
-        functionName: "login",
-        data: "$error",
-      );
-      rethrow;
-    }
   }
 
   //saving the required information to get re-authenticate the user or to send a new request
@@ -95,215 +47,21 @@ class LoginController extends GetxController {
   // ending a validation code to the given email to reset the password
   Future<bool> sendCodeEmail(String email) async {
     return true;
-    _email = email;
-    update();
-    try {
-      //creating the request link
-      final Uri permissionTypesLink = Uri.https(
-          ServerConfig.server_base_link, ServerConfig.send_email_request);
-      //sending a get request to get back data from the server without changing any thing
-      final http.Response res = await http.post(
-        permissionTypesLink,
-        headers: {
-          //the response data format
-          "Accept": ServerConfig.response_format,
-          //the response language
-          "X-localization":
-              Get.find<AppLocalizationController>().currentLocale.languageCode,
-        },
-        body: {
-          "email": email,
-        },
-      );
-      //in this case the request had been completed successfully
-      if (res.statusCode == 200) {
-        return true;
-      }
-      //in this case case our token session is expired so we will just flush it
-      //and throw back an error message to inform the user that he need to try again
-      else if (res.statusCode == 401) {
-        //flushing the token to start a new session
-        Get.find<LoginController>().tryAutoLogin();
-        //throwing back the error message
-        throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-      //in this case something went wrong in the server
-      //so we will just throw back the server error
-      else {
-        //throwing the error
-        throw throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-    } catch (error) {
-      echo(
-        variableName: "error",
-        functionName: "sendCodeEmail",
-        data: "$error",
-      );
-      rethrow;
-    }
   }
 
   //validating if the getting code is valid or not
   Future<bool> validateCode(String code) async {
     return true;
-    try {
-      //creating the request link
-      final Uri permissionTypesLink = Uri.https(
-          ServerConfig.server_base_link, ServerConfig.verify_code_request);
-      //sending a get request to get back data from the server without changing any thing
-      final http.Response res = await http.post(
-        permissionTypesLink,
-        headers: {
-          //the response data format
-          "Accept": ServerConfig.response_format,
-          //the response language
-          "X-localization":
-              Get.find<AppLocalizationController>().currentLocale.languageCode,
-        },
-        body: {
-          "email": email,
-          "verification_code": code,
-        },
-      );
-      //in this case the request had been completed successfully
-      if (res.statusCode == 200) {
-        return true;
-      }
-      //in this case case our token session is expired so we will just flush it
-      //and throw back an error message to inform the user that he need to try again
-      else if (res.statusCode == 401) {
-        //flushing the token to start a new session
-        Get.find<LoginController>().tryAutoLogin();
-        //throwing back the error message
-        throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-      //in this case something went wrong in the server
-      //so we will just throw back the server error
-      else {
-        //throwing the error
-        throw throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-    } catch (error) {
-      echo(
-        variableName: "error",
-        functionName: "validateCode",
-        data: "$error",
-      );
-      rethrow;
-    }
   }
 
   //resetting the password again
   Future<bool> resetPassword(String password) async {
     return true;
-    try {
-      //creating the request link
-      final Uri permissionTypesLink = Uri.https(
-          ServerConfig.server_base_link, ServerConfig.reset_password_request);
-      //sending a get request to get back data from the server without changing any thing
-      final http.Response res = await http.post(
-        permissionTypesLink,
-        headers: {
-          //the response data format
-          "Accept": ServerConfig.response_format,
-          //the response language
-          "X-localization":
-              Get.find<AppLocalizationController>().currentLocale.languageCode,
-        },
-        body: {
-          "email": email,
-          'password': password,
-          "password_confirmation": password,
-        },
-      );
-      //in this case the request had been completed successfully
-      if (res.statusCode == 200) {
-        return true;
-      }
-      //in this case case our token session is expired so we will just flush it
-      //and throw back an error message to inform the user that he need to try again
-      else if (res.statusCode == 401) {
-        //flushing the token to start a new session
-        Get.find<LoginController>().tryAutoLogin();
-        //throwing back the error message
-        throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-      //in this case something went wrong in the server
-      //so we will just throw back the server error
-      else {
-        //throwing the error
-        throw throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-    } catch (error) {
-      echo(
-        variableName: "error",
-        functionName: "resetPassword",
-        data: "$error",
-      );
-      rethrow;
-    }
   }
 
   //changing the password by using the old one
   Future<bool> changePassword(String oldPassword, String newPassword) async {
     return true;
-    try {
-      //creating the request link
-      final Uri permissionTypesLink = Uri.https(
-          ServerConfig.server_base_link, ServerConfig.update_password_request);
-      //sending a get request to get back data from the server without changing any thing
-      final http.Response res = await http.post(
-        permissionTypesLink,
-        headers: {
-          //the response data format
-          "Accept": ServerConfig.response_format,
-          //the response language
-          "X-localization":
-              Get.find<AppLocalizationController>().currentLocale.languageCode,
-          //sending the authentication key to get the exact employee data
-          "Authorization": "Bearer ${Get.find<LoginController>().tokenid}",
-        },
-        body: {
-          "email": email,
-          "password": newPassword,
-          "old_password": oldPassword,
-          "password_confirmation": newPassword,
-        },
-      );
-      //in this case the request had been completed successfully
-      if (res.statusCode == 200) {
-        return true;
-      }
-      //in this case case our token session is expired so we will just flush it
-      //and throw back an error message to inform the user that he need to try again
-      else if (res.statusCode == 401) {
-        //flushing the token to start a new session
-        Get.find<LoginController>().tryAutoLogin();
-        //throwing back the error message
-        throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-      //in this case something went wrong in the server
-      //so we will just throw back the server error
-      else {
-        //throwing the error
-        throw throw Get.find<AppLocalizationController>()
-            .getTranslatedValue("try_again");
-      }
-    } catch (error) {
-      echo(
-        variableName: "error",
-        functionName: "changePassword",
-        data: "$error",
-      );
-      rethrow;
-    }
   }
 
   //forgetting the user data and logging the user out

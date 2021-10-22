@@ -94,12 +94,13 @@ class CustomTextField extends StatelessWidget {
           margin: EdgeInsets.zero,
           child: Container(
             width: _width,
-            height: _height,
+            height: _height ?? 72,
             decoration: BoxDecoration(
               borderRadius: _border ?? BorderRadius.circular(_size.width(14)),
               color: const Color.fromRGBO(236, 238, 244, 1),
             ),
             child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 _prefixIconName == null
                     ? Container()
@@ -113,38 +114,41 @@ class CustomTextField extends StatelessWidget {
                         ),
                       ),
                 Expanded(
-                  child: TextField(
-                    maxLength: _maxLength,
-                    expands: _expands,
-                    maxLines: _expands ? null : _maxLines,
-                    minLines: _expands ? null : _minLines,
-                    controller: _controller,
-                    textAlignVertical: TextAlignVertical.top,
-                    textDirection:
-                        Get.find<AppLocalizationController>().isRTLanguage
-                            ? TextDirection.rtl
-                            : TextDirection.ltr,
-                    decoration: InputDecoration(
-                        hintTextDirection:
-                            Get.find<AppLocalizationController>().isRTLanguage
-                                ? TextDirection.rtl
-                                : TextDirection.ltr,
-                        alignLabelWithHint: true,
-                        border: const OutlineInputBorder(
-                            borderSide: BorderSide.none),
-                        enabledBorder: const OutlineInputBorder(
-                            borderSide: BorderSide.none),
-                        errorBorder: const OutlineInputBorder(
-                            borderSide: BorderSide.none),
-                        hintText: Get.find<AppLocalizationController>()
-                            .getTranslatedValue(_hintKey),
-                        hintStyle: _hintStyle ??
-                            Theme.of(context).textTheme.bodyText1!.copyWith(
-                                color: const Color.fromRGBO(196, 198, 204, 1)),
-                        contentPadding: EdgeInsets.zero),
-                    obscureText: _obscureText,
-                    onChanged: _onChange,
-                    keyboardType: _keyboardType,
+                  child: Center(
+                    child: TextField(
+                      maxLength: _maxLength,
+                      expands: _expands,
+                      maxLines: _expands ? null : _maxLines,
+                      minLines: _expands ? null : _minLines,
+                      controller: _controller,
+                      textAlignVertical: TextAlignVertical.center,
+                      textDirection:
+                          Get.find<AppLocalizationController>().isRTLanguage
+                              ? TextDirection.rtl
+                              : TextDirection.ltr,
+                      decoration: InputDecoration(
+                          hintTextDirection:
+                              Get.find<AppLocalizationController>().isRTLanguage
+                                  ? TextDirection.rtl
+                                  : TextDirection.ltr,
+                          alignLabelWithHint: true,
+                          border: const OutlineInputBorder(
+                              borderSide: BorderSide.none),
+                          enabledBorder: const OutlineInputBorder(
+                              borderSide: BorderSide.none),
+                          errorBorder: const OutlineInputBorder(
+                              borderSide: BorderSide.none),
+                          hintText: Get.find<AppLocalizationController>()
+                              .getTranslatedValue(_hintKey),
+                          hintStyle: _hintStyle ??
+                              Theme.of(context).textTheme.bodyText1!.copyWith(
+                                  color:
+                                      const Color.fromRGBO(196, 198, 204, 1)),
+                          contentPadding: EdgeInsets.zero),
+                      obscureText: _obscureText,
+                      onChanged: _onChange,
+                      keyboardType: _keyboardType,
+                    ),
                   ),
                 ),
                 _suffixIcon ?? Container(),

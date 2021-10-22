@@ -56,7 +56,7 @@ class CustomDropdownButton<T> extends StatefulWidget {
     this.onTap,
     this.separatorBuilder,
     this.listColor,
-    this.buttonColor = Colors.black12,
+    this.buttonColor = const Color.fromRGBO(245, 245, 245, 1),
     this.icon,
     this.maxHeight,
     this.align = CustomDropdownButtonAlign.bottom,
