@@ -36,13 +36,25 @@ class _ProductsScreenState extends State<ProductsScreen> {
       body: Container(
         color: Theme.of(context).primaryColor,
         child: SmartRefresher(
+          enablePullUp: true,
           header: const MyCustomHeader(),
           controller: _refreshController,
           onRefresh: () async {
-            pageNumber = 4;
-            products = await dataAPI.getProducts();
+            pageNumber = 1;
+            products = await dataAPI.getProducts(
+              pageNumber: pageNumber,
+              categoryId: category.id,
+            );
             setState(() {});
             _refreshController.refreshCompleted();
+          },
+          onLoading: () async {
+            products = await dataAPI.getProducts(
+              pageNumber: pageNumber++,
+              categoryId: category.id,
+            );
+            setState(() {});
+            _refreshController.loadComplete();
           },
           child: ListView(
             padding: EdgeInsets.zero,

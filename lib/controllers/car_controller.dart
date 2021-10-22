@@ -1,8 +1,12 @@
 import 'package:get/get.dart';
 
+import '../models/product_info.dart';
+import '../services/data_api.dart';
+
 class CarController extends GetxController {
   // ignore: prefer_final_fields
   List<Map<int, int>> _products = [];
+  //first int is the id and the second is the quantity
   List<Map<int, int>> get products => _products;
 
   Future<void> addProduct(int productId, [int quantity = 1]) async {
@@ -32,5 +36,15 @@ class CarController extends GetxController {
     } else {
       throw "You must select the product first";
     }
+  }
+
+  Future<List<ProductInfo>> getCarProducts() async {
+    List<ProductInfo> list = [];
+    DataAPI dataAPI = DataAPI();
+    for (Map<int, int> map in products) {
+      ProductInfo product = await dataAPI.getProductByID(map.keys.first);
+      list.add(product);
+    }
+    return list;
   }
 }

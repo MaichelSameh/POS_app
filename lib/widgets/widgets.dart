@@ -13,3 +13,4 @@ export 'reset_password_email_form.dart';
 export 'reset_password_new_password_form.dart';
 export 'product_card.dart';
 export 'custom_header.dart';
+export 'car_product_item.dart';

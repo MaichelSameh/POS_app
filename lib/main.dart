@@ -46,6 +46,10 @@ class MyApp extends StatelessWidget {
                 ),
             ProductDetailsScreen.route_name: (_) =>
                 const ProductDetailsScreen(key: Key("product_details_screen")),
+            ChangeLanguageScreen.route_name: (_) =>
+                const ChangeLanguageScreen(key: Key("change_language_screen")),
+            ChangePasswordScreen.route_name: (_) =>
+                const ChangePasswordScreen(key: Key("change_password_screen")),
           },
           theme: ThemeData(
             scaffoldBackgroundColor: const Color.fromRGBO(255, 255, 255, 1),
