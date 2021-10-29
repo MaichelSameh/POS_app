@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:get/get.dart';
 
-import '../config/palette.dart';
-import '../controllers/localization_controller.dart';
-import '../models/language_info.dart';
-import '../models/size.dart';
-import '../widgets/custom_app_bar.dart';
+import '../../config/palette.dart';
+import '../../controllers/localization_controller.dart';
+import '../../models/language_info.dart';
+import '../../models/size.dart';
+import '../../widgets/custom_app_bar.dart';
 
 class ChangeLanguageScreen extends StatefulWidget {
   // ignore: constant_identifier_names

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
-import '../models/models.dart';
-import '../widgets/widgets.dart';
-import '../services/data_api.dart';
+import '../../models/models.dart';
+import '../../widgets/widgets.dart';
+import '../../services/data_api.dart';
 import 'product_details_screen.dart';
 
 class ProductsScreen extends StatefulWidget {

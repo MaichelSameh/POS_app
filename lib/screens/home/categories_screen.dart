@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 
-import '../config/palette.dart';
-import '../controllers/controllers.dart';
-import '../models/models.dart';
-import '../services/data_api.dart';
-import '../widgets/widgets.dart';
+import '../../config/palette.dart';
+import '../../controllers/controllers.dart';
+import '../../models/models.dart';
+import '../../services/data_api.dart';
+import '../../widgets/widgets.dart';
 import 'products_screen.dart';
 
 class CategoriesScreen extends StatefulWidget {
