@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../controllers/localization_controller.dart';
-import '../models/size.dart';
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_dropdown_button.dart';
+import '../../controllers/localization_controller.dart';
+import '../../models/size.dart';
+import '../../widgets/custom_app_bar.dart';
+import '../../widgets/custom_dropdown_button.dart';
 
 class PaymentScreen extends StatefulWidget {
   const PaymentScreen({Key? key}) : super(key: key);

@@ -33,6 +33,7 @@ class LoginController extends GetxController {
   }
 
   //saving the required information to get re-authenticate the user or to send a new request
+  // ignore: unused_element
   Future<void> _saveLoginData(
     String tokenid,
     String email,
@@ -105,6 +106,7 @@ class LoginController extends GetxController {
     // }
   }
 
+  // ignore: unused_element
   Future<void> _saveUserData(String firstName, int id) async {
     SharedPreferences pref = await SharedPreferences.getInstance();
     pref.setString("first_name", firstName);
