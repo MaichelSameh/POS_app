@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 
-import '../config/palette.dart';
-import '../controllers/controllers.dart';
-import '../models/product_info.dart';
-import '../models/size.dart';
-import '../widgets/widgets.dart';
+import '../../config/palette.dart';
+import '../../controllers/controllers.dart';
+import '../../models/product_info.dart';
+import '../../models/size.dart';
+import '../../widgets/widgets.dart';
 
 class ProductDetailsScreen extends StatefulWidget {
   // ignore: constant_identifier_names

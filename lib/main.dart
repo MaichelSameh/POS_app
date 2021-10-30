@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Get.find<AppLocalizationController>().getAppLocale();
     return GetBuilder<AppLocalizationController>(
       builder: (localization) {
         return MaterialApp(

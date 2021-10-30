@@ -6,7 +6,7 @@ import '../controllers/car_controller.dart';
 import '../controllers/localization_controller.dart';
 import '../models/product_info.dart';
 import '../models/size.dart';
-import '../screens/product_details_screen.dart';
+import '../screens/home/product_details_screen.dart';
 import 'custom_button.dart';
 
 class CarProductItem extends StatelessWidget {

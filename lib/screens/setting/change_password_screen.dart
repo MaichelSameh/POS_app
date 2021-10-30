@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 
-import '../controllers/localization_controller.dart';
-import '../controllers/login_controller.dart';
-import '../models/size.dart';
-import '../widgets/custom_button.dart';
-import '../widgets/custom_app_bar.dart';
-import '../widgets/custom_text_field.dart';
+import '../../controllers/localization_controller.dart';
+import '../../controllers/login_controller.dart';
+import '../../models/size.dart';
+import '../../widgets/custom_button.dart';
+import '../../widgets/custom_app_bar.dart';
+import '../../widgets/custom_text_field.dart';
 
 class ChangePasswordScreen extends StatefulWidget {
   // ignore: constant_identifier_names
