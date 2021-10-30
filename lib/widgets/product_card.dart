@@ -75,8 +75,7 @@ class ProductCard extends StatelessWidget {
                             children: [
                               CustomElevatedButton(
                                 onTap: () {
-                                  Get.find<CarController>()
-                                      .addProduct(product.id);
+                                  Get.find<CarController>().addProduct(product);
                                 },
                                 height: _size.height(40),
                                 width: _size.height(40),
@@ -144,7 +143,7 @@ class ProductCard extends StatelessWidget {
                             width: _size.width(136),
                             height: _size.height(40),
                             onTap: () {
-                              Get.find<CarController>().addProduct(product.id);
+                              Get.find<CarController>().addProduct(product);
                             },
                             child: Text(
                               Get.find<AppLocalizationController>()

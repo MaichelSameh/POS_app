@@ -150,7 +150,7 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
                                     CustomElevatedButton(
                                       onTap: () {
                                         Get.find<CarController>()
-                                            .addProduct(product.id);
+                                            .addProduct(product);
                                       },
                                       height: _size.height(72),
                                       width: _size.height(72),
@@ -219,7 +219,7 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
                                   height: _size.height(72),
                                   onTap: () {
                                     Get.find<CarController>()
-                                        .addProduct(product.id);
+                                        .addProduct(product);
                                   },
                                   child: Text(
                                     Get.find<AppLocalizationController>()

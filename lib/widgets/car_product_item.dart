@@ -88,7 +88,7 @@ class CarProductItem extends StatelessWidget {
                 children: [
                   CustomElevatedButton(
                     onTap: () {
-                      Get.find<CarController>().addProduct(product.id);
+                      Get.find<CarController>().addProduct(product);
                     },
                     height: _size.height(40),
                     width: _size.height(40),

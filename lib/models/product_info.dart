@@ -63,4 +63,16 @@ class ProductInfo {
     _categoryId = jsonData["category_id"];
     _brandId = jsonData["brand_id"];
   }
+
+  ProductInfo.fromLocalDB(Map<String, dynamic> jsonData) {
+    _id = jsonData["id"];
+    _title = jsonData["title"];
+    _price = jsonData["price"];
+    _description = jsonData["description"];
+    _images = jsonData["images"];
+    _currency = jsonData["currency"];
+    _sku = jsonData["sku"];
+    _categoryId = jsonData["category_id"];
+    _brandId = jsonData["brand_id"];
+  }
 }
