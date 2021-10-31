@@ -2,16 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../config/palette.dart';
-import '../controllers/car_controller.dart';
 import '../controllers/localization_controller.dart';
 import '../models/product_info.dart';
 import '../models/size.dart';
 import '../screens/home/product_details_screen.dart';
-import 'custom_button.dart';
 
-class CarProductItem extends StatelessWidget {
+class TransactionProductItem extends StatelessWidget {
   final ProductInfo product;
-  const CarProductItem({Key? key, required this.product}) : super(key: key);
+  final int quantity;
+  const TransactionProductItem({
+    Key? key,
+    required this.product,
+    required this.quantity,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -30,6 +33,7 @@ class CarProductItem extends StatelessWidget {
           color: Theme.of(context).primaryColor.withOpacity(0.7),
           borderRadius: BorderRadius.circular(_size.width(25)),
         ),
+        margin: EdgeInsets.symmetric(vertical: _size.height(10)),
         child: Row(
           children: [
             Container(
@@ -53,9 +57,8 @@ class CarProductItem extends StatelessWidget {
             ),
             SizedBox(width: _size.width(27)),
             Column(
-              mainAxisAlignment: MainAxisAlignment.start,
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                SizedBox(height: _size.height(20)),
                 SizedBox(
                   height: _size.height(21),
                   child: Text(
@@ -81,67 +84,58 @@ class CarProductItem extends StatelessWidget {
               ],
             ),
             const Spacer(),
-            GetBuilder<CarController>(
-              builder: (carController) => Column(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  CustomElevatedButton(
-                    onTap: () {
-                      Get.find<CarController>().addProduct(product);
-                    },
-                    height: _size.height(40),
-                    width: _size.height(40),
-                    color: MyPalette.primary_color,
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                Container(
+                  height: _size.height(40),
+                  width: _size.height(40),
+                  decoration: BoxDecoration(
+                    color: MyPalette.primary_color.withOpacity(0.7),
                     borderRadius: BorderRadius.circular(
                       _size.width(6),
                     ),
-                    child: Center(
-                      child: Text(
-                        "+",
-                        style: Theme.of(context).textTheme.bodyText2!.copyWith(
-                              fontSize: 21,
-                              color: Colors.white,
-                              fontWeight: FontWeight.w500,
-                            ),
-                      ),
+                  ),
+                  child: Center(
+                    child: Text(
+                      "+",
+                      style: Theme.of(context).textTheme.bodyText2!.copyWith(
+                            fontSize: 21,
+                            color: Colors.white,
+                            fontWeight: FontWeight.w500,
+                          ),
                     ),
                   ),
-                  Text(
-                    carController.products
-                        .firstWhere(
-                            (element) => element.keys.first == product.id)
-                        .values
-                        .first
-                        .toString(),
-                    style: Theme.of(context).textTheme.bodyText2!.copyWith(
-                          fontSize: 12,
-                          fontWeight: FontWeight.w500,
-                        ),
-                  ),
-                  CustomElevatedButton(
-                    onTap: () {
-                      Get.find<CarController>().removeProduct(product.id);
-                    },
-                    height: _size.height(40),
-                    width: _size.height(40),
-                    color: MyPalette.primary_color,
+                ),
+                Text(
+                  quantity.toString(),
+                  style: Theme.of(context).textTheme.bodyText2!.copyWith(
+                        fontSize: 12,
+                        fontWeight: FontWeight.w500,
+                      ),
+                ),
+                Container(
+                  height: _size.height(40),
+                  width: _size.height(40),
+                  decoration: BoxDecoration(
+                    color: MyPalette.primary_color.withOpacity(0.7),
                     borderRadius: BorderRadius.circular(
                       _size.width(6),
                     ),
-                    child: Center(
-                      child: Text(
-                        "-",
-                        style: Theme.of(context).textTheme.bodyText2!.copyWith(
-                              fontSize: 21,
-                              color: Colors.white,
-                              fontWeight: FontWeight.w500,
-                            ),
-                      ),
+                  ),
+                  child: Center(
+                    child: Text(
+                      "-",
+                      style: Theme.of(context).textTheme.bodyText2!.copyWith(
+                            fontSize: 21,
+                            color: Colors.white,
+                            fontWeight: FontWeight.w500,
+                          ),
                     ),
                   ),
-                ],
-              ),
+                ),
+              ],
             ),
             SizedBox(width: _size.width(20)),
           ],

@@ -34,5 +34,7 @@
     "add_to_car": "Add to cart",
     "no_products_car": "No products added to the car yet!",
     "car": "Car",
-    "client_info": "Clint Information"
+    "client_info": "Clint Information",
+    "all_transactions": "All transactions",
+    "transaction": "Transaction"
 }

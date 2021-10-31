@@ -20,11 +20,15 @@ class CarScreen extends StatelessWidget {
         children: [
           const MyCustomAppBar(titleKey: "pos"),
           Container(
+            constraints: BoxConstraints(
+              minHeight: _size.screenHeight() - _size.height(150),
+              minWidth: double.infinity,
+            ),
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.only(
-                topRight: Radius.circular(_size.width(40)),
                 topLeft: Radius.circular(_size.width(40)),
+                topRight: Radius.circular(_size.width(40)),
               ),
             ),
             child: Column(

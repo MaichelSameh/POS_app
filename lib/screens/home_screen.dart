@@ -18,7 +18,9 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Widget> screens = [
     const CategoriesScreen(key: Key("categories_screen")),
     const CarScreen(key: Key("car_screen")),
-    const SizedBox(),
+    const TransactionScreen(
+      key: Key("transaction_screen"),
+    ),
     const SettingScreen(
       key: Key("setting_screen"),
     ),

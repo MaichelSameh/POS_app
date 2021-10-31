@@ -48,12 +48,12 @@ class DBHelper {
                 title TEXT,
                 image TEXT,
                 currency TEXT,
-                description TEXT,
+                description TEXT
               );
-
             ''');
         },
       );
+      _db = database;
       return database;
     } else {
       return _db!;

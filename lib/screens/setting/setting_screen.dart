@@ -18,7 +18,10 @@ class SettingScreen extends StatelessWidget {
       color: Theme.of(context).primaryColor,
       child: Column(
         children: [
-          const MyCustomAppBar(titleKey: "pos"),
+          const MyCustomAppBar(
+            titleKey: "pos",
+            allowBackAction: true,
+          ),
           Container(
             height: _size.height(685),
             decoration: BoxDecoration(
@@ -74,6 +77,7 @@ class SettingScreen extends StatelessWidget {
                   title: "change_password",
                   context: context,
                   trailing: SvgPicture.asset(
+                    //TODO CHANGE ICON NAME
                     "assets/icons/to_icon.svg",
                     color: const Color.fromRGBO(141, 141, 141, 1),
                     width: _size.width(16),

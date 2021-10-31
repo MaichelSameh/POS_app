@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:get/get.dart';
 
 import 'screens/screens.dart';
@@ -10,7 +11,8 @@ void main() {
   Get.put<AppLocalizationController>(AppLocalizationController.empty());
   Get.put<LoginController>(LoginController());
   Get.put<CarController>(CarController());
-  runApp(const MyApp());
+  Get.put<NoteAndVisitController>(NoteAndVisitController());
+  runApp(Phoenix(child: const MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -57,6 +59,11 @@ class MyApp extends StatelessWidget {
             primaryColor: const Color.fromRGBO(245, 245, 245, 1),
             fontFamily: "Tajawal",
             textTheme: const TextTheme(
+              headline2: TextStyle(
+                color: MyPalette.secondary_color,
+                fontSize: 28,
+                fontWeight: FontWeight.bold,
+              ),
               bodyText1: TextStyle(
                 color: Colors.black,
                 fontSize: 18,

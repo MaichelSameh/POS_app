@@ -33,4 +33,12 @@ class DataAPI {
   Future<ProductInfo> getProductByID(int id) async {
     return products.firstWhere((element) => element.id == id);
   }
+
+  Future<List<TransactionInfo>> getTransactions([int pageNumber = 1]) async {
+    List<TransactionInfo> transactions = [];
+    for (int i = (pageNumber - 1) * 10; i < pageNumber * 10; i++) {
+      transactions.add(TransactionInfo.empty());
+    }
+    return transactions;
+  }
 }

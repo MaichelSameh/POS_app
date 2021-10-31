@@ -56,7 +56,10 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
               ),
             ),
             Container(
-              height: _size.screenHeight() - _size.height(150),
+              constraints: BoxConstraints(
+                minHeight: _size.screenHeight() - _size.height(150),
+                minWidth: double.infinity,
+              ),
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.only(
@@ -137,104 +140,6 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
                               .bodyText1!
                               .copyWith(fontSize: 19),
                         ),
-                        SizedBox(height: _size.height(52)),
-                        GetBuilder<CarController>(
-                          builder: (carController) => carController.products
-                                  .any((element) =>
-                                      element.keys.first == product.id)
-                              ? Row(
-                                  crossAxisAlignment: CrossAxisAlignment.center,
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    CustomElevatedButton(
-                                      onTap: () {
-                                        Get.find<CarController>()
-                                            .addProduct(product);
-                                      },
-                                      height: _size.height(72),
-                                      width: _size.height(72),
-                                      color: MyPalette.primary_color,
-                                      borderRadius: BorderRadius.circular(
-                                        _size.width(6),
-                                      ),
-                                      child: Center(
-                                        child: Text(
-                                          "+",
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .bodyText2!
-                                              .copyWith(
-                                                fontSize: 31,
-                                                color: Colors.white,
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                    ),
-                                    Text(
-                                      carController.products
-                                          .firstWhere((element) =>
-                                              element.keys.first == product.id)
-                                          .values
-                                          .first
-                                          .toString(),
-                                      style: Theme.of(context)
-                                          .textTheme
-                                          .bodyText2!
-                                          .copyWith(
-                                            fontSize: 22,
-                                            fontWeight: FontWeight.w500,
-                                          ),
-                                    ),
-                                    CustomElevatedButton(
-                                      onTap: () {
-                                        Get.find<CarController>()
-                                            .removeProduct(product.id);
-                                      },
-                                      height: _size.height(72),
-                                      width: _size.height(72),
-                                      color: MyPalette.primary_color,
-                                      borderRadius: BorderRadius.circular(
-                                        _size.width(6),
-                                      ),
-                                      child: Center(
-                                        child: Text(
-                                          "-",
-                                          style: Theme.of(context)
-                                              .textTheme
-                                              .bodyText2!
-                                              .copyWith(
-                                                fontSize: 31,
-                                                color: Colors.white,
-                                                fontWeight: FontWeight.w500,
-                                              ),
-                                        ),
-                                      ),
-                                    ),
-                                  ],
-                                )
-                              : CustomElevatedButton(
-                                  width: _size.width(343),
-                                  height: _size.height(72),
-                                  onTap: () {
-                                    Get.find<CarController>()
-                                        .addProduct(product);
-                                  },
-                                  child: Text(
-                                    Get.find<AppLocalizationController>()
-                                        .getTranslatedValue("add_to_car"),
-                                    style: Theme.of(context)
-                                        .textTheme
-                                        .bodyText2!
-                                        .copyWith(
-                                          color: Colors.white,
-                                          fontSize: 20,
-                                          fontWeight: FontWeight.w500,
-                                        ),
-                                  ),
-                                ),
-                        ),
                       ],
                     ),
                   )
@@ -242,6 +147,92 @@ class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
               ),
             ),
           ],
+        ),
+      ),
+      bottomNavigationBar: Padding(
+        padding: EdgeInsets.symmetric(
+            horizontal: _size.width(43), vertical: _size.height(20)),
+        child: GetBuilder<CarController>(
+          builder: (carController) => carController.products
+                  .any((element) => element.keys.first == product.id)
+              ? Row(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    CustomElevatedButton(
+                      onTap: () {
+                        Get.find<CarController>().addProduct(product);
+                      },
+                      height: _size.height(72),
+                      width: _size.height(72),
+                      color: MyPalette.primary_color,
+                      borderRadius: BorderRadius.circular(
+                        _size.width(6),
+                      ),
+                      child: Center(
+                        child: Text(
+                          "+",
+                          style:
+                              Theme.of(context).textTheme.bodyText2!.copyWith(
+                                    fontSize: 31,
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.w500,
+                                  ),
+                        ),
+                      ),
+                    ),
+                    Text(
+                      carController.products
+                          .firstWhere(
+                              (element) => element.keys.first == product.id)
+                          .values
+                          .first
+                          .toString(),
+                      style: Theme.of(context).textTheme.bodyText2!.copyWith(
+                            fontSize: 22,
+                            fontWeight: FontWeight.w500,
+                          ),
+                    ),
+                    CustomElevatedButton(
+                      onTap: () {
+                        Get.find<CarController>().removeProduct(product.id);
+                      },
+                      height: _size.height(72),
+                      width: _size.height(72),
+                      color: MyPalette.primary_color,
+                      borderRadius: BorderRadius.circular(
+                        _size.width(6),
+                      ),
+                      child: Center(
+                        child: Text(
+                          "-",
+                          style:
+                              Theme.of(context).textTheme.bodyText2!.copyWith(
+                                    fontSize: 31,
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.w500,
+                                  ),
+                        ),
+                      ),
+                    ),
+                  ],
+                )
+              : CustomElevatedButton(
+                  width: _size.width(343),
+                  height: _size.height(72),
+                  onTap: () {
+                    Get.find<CarController>().addProduct(product);
+                  },
+                  child: Text(
+                    Get.find<AppLocalizationController>()
+                        .getTranslatedValue("add_to_car"),
+                    style: Theme.of(context).textTheme.bodyText2!.copyWith(
+                          color: Colors.white,
+                          fontSize: 20,
+                          fontWeight: FontWeight.w500,
+                        ),
+                  ),
+                ),
         ),
       ),
     );
