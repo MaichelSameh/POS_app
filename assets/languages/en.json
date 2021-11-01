@@ -36,5 +36,7 @@
     "car": "Car",
     "client_info": "Clint Information",
     "all_transactions": "All transactions",
-    "transaction": "Transaction"
+    "transaction": "Transaction",
+    "todo_list": "To Do List",
+    "add_new": "Add new"
 }

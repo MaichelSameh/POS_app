@@ -92,30 +92,28 @@ class TransactionCard extends StatelessWidget {
     String iconName,
     Size _size,
   ) {
-    return Container(
-      child: Row(
-        children: [
-          SvgPicture.asset(
-            "assets/icons/$iconName.svg",
-            color: iconName == "person"
-                ? Theme.of(context).textTheme.bodyText2!.color!.withOpacity(0.8)
-                : null,
-            height: iconName == "person" ? _size.height(18) : null,
+    return Row(
+      children: [
+        SvgPicture.asset(
+          "assets/icons/$iconName.svg",
+          color: iconName == "person"
+              ? Theme.of(context).textTheme.bodyText2!.color!.withOpacity(0.8)
+              : null,
+          height: iconName == "person" ? _size.height(18) : null,
+        ),
+        SizedBox(width: _size.width(15)),
+        Container(
+          alignment: Get.find<AppLocalizationController>().isRTLanguage
+              ? Alignment.centerRight
+              : Alignment.centerLeft,
+          height: _size.height(19),
+          width: _size.width(170),
+          child: Text(
+            label,
+            style: Theme.of(context).textTheme.bodyText2,
           ),
-          SizedBox(width: _size.width(15)),
-          Container(
-            alignment: Get.find<AppLocalizationController>().isRTLanguage
-                ? Alignment.centerRight
-                : Alignment.centerLeft,
-            height: _size.height(19),
-            width: _size.width(170),
-            child: Text(
-              label,
-              style: Theme.of(context).textTheme.bodyText2,
-            ),
-          ),
-        ],
-      ),
+        ),
+      ],
     );
   }
 }

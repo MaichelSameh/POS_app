@@ -1,32 +1,42 @@
-class VisitInfo {
+class ToDoItem {
   late String _title;
   late int _id;
+  late int _listId;
   late DateTime _date;
+  late bool _checked;
 
-  VisitInfo({
+  ToDoItem({
     required String title,
     required int id,
     required DateTime date,
+    required int listId,
   }) {
     _title = title;
     _id = id;
     _date = date;
+    _listId = listId;
   }
 
   String get title => _title;
   int get id => _id;
+  int get listId => _listId;
   DateTime get date => _date;
+  bool get checked => _checked;
 
-  VisitInfo.fromJSON(Map<String, dynamic> jsonData) {
+  ToDoItem.fromJSON(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
     _date = jsonData["date"];
+    _listId = jsonData["list_id"];
+    _checked = jsonData["checked"] == 1;
   }
 
-  VisitInfo.localDB(Map<String, dynamic> jsonData) {
+  ToDoItem.localDB(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
     _date = jsonData["date"];
+    _listId = jsonData["list_id"];
+    _checked = jsonData["checked"] == 1;
   }
 
   @override
@@ -35,18 +45,18 @@ class VisitInfo {
       id: $id,
       title: $title,
       date: $date,
+      list_id: $listId,
+      checked: $checked,
     ''';
   }
 
   void copyWith({
     String? title,
     DateTime? date,
+    bool? checked,
   }) {
-    if (title != null) {
-      _title = title;
-    }
-    if (date != null) {
-      _date = date;
-    }
+    _title = title ?? _title;
+    _date = date ?? _date;
+    _checked = checked ?? _checked;
   }
 }

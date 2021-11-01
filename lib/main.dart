@@ -10,7 +10,6 @@ import 'config/palette.dart';
 void main() {
   Get.put<AppLocalizationController>(AppLocalizationController.empty());
   Get.put<LoginController>(LoginController());
-  Get.put<CarController>(CarController());
   Get.put<NoteAndVisitController>(NoteAndVisitController());
   runApp(Phoenix(child: const MyApp()));
 }
@@ -20,6 +19,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Get.put<CarController>(CarController());
     Get.find<AppLocalizationController>().getAppLocale();
     return GetBuilder<AppLocalizationController>(
       builder: (localization) {
@@ -63,6 +63,11 @@ class MyApp extends StatelessWidget {
                 color: MyPalette.secondary_color,
                 fontSize: 28,
                 fontWeight: FontWeight.bold,
+              ),
+              headline4: TextStyle(
+                color: MyPalette.secondary_color,
+                fontSize: 14,
+                fontWeight: FontWeight.w500,
               ),
               bodyText1: TextStyle(
                 color: Colors.black,

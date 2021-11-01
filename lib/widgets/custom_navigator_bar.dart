@@ -21,6 +21,7 @@ class MyCustomNavigatorBar extends StatelessWidget {
     return Container(
       width: double.infinity,
       height: _size.height(102),
+      margin: EdgeInsets.only(top: _size.height(10)),
       decoration: BoxDecoration(
         color: MyPalette.secondary_color,
         borderRadius: BorderRadius.only(

@@ -7,8 +7,8 @@ import 'package:sqflite/sqflite.dart';
 class DBHelper {
   static Database? _db;
 
-  final String visitsTableName = "visits";
-  final String todoTableName = "todo";
+  final String todoItemTableName = "todo_item";
+  final String todoListTableName = "todo_list";
   final String carTableName = "car";
 
   void echo({
@@ -26,18 +26,15 @@ class DBHelper {
       Database database = await openDatabase(
         appPath.path + "local_database.db",
         version: 1,
-        onCreate: (db, version) {
-          db.execute('''
-              CREATE TABLE $visitsTableName(
+        onCreate: (db, version) async {
+          await db.execute('''
+              CREATE TABLE $todoListTableName(
                 id INTEGER NOT NULL PRIMARY KEY,
                 title TEXT NOT NULL,
                 date TEXT
               );
-              CREATE TABLE $todoTableName(
-                id INTEGER NOT NULL PRIMARY KEY,
-                title TEXT NOT NULL,
-                date TEXT
-              );
+            ''');
+          await db.execute('''
               CREATE TABLE $carTableName(
                 id INTEGER NOT NULL PRIMARY KEY,
                 category_id INTEGER NOT NULL,
@@ -50,6 +47,22 @@ class DBHelper {
                 currency TEXT,
                 description TEXT
               );
+            ''');
+          await db.execute('''
+              CREATE TABLE $todoItemTableName(
+                id INTEGER NOT NULL PRIMARY KEY,
+                title TEXT NOT NULL,
+                date TEXT,
+                checked INTEGER NOT NULL,
+                list_id INTEGER NOT NULL,
+                FOREIGN KEY (list_id) REFERENCES $todoListTableName(id)
+              );
+            ''');
+          await db.execute('''
+              insert into $todoListTableName (id, title, date) values (1, "Today's visits", ${DateTime.now()});
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", ${DateTime.now()}, 1, 0);
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", ${DateTime.now()}, 1, 0);
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", ${DateTime.now()}, 1, 0);
             ''');
         },
       );
@@ -75,7 +88,7 @@ class DBHelper {
     try {
       Database database = await _initializeDatabase();
       database.insert(
-        todoTableName,
+        carTableName,
         {
           "id": id,
           "category_id": categoryId,
@@ -114,7 +127,7 @@ class DBHelper {
     try {
       Database database = await _initializeDatabase();
       database.update(
-        todoTableName,
+        carTableName,
         {
           "quantity": quantity,
         },
@@ -135,7 +148,7 @@ class DBHelper {
     try {
       Database database = await _initializeDatabase();
       database.delete(
-        visitsTableName,
+        carTableName,
       );
     } catch (error) {
       echo(variableName: "error", functionName: "clearCar", data: error);
@@ -167,29 +180,32 @@ class DBHelper {
     return {};
   }
 
-  Future<Map<String, dynamic>> insertNewVisit(String title) async {
+  Future<Map<String, dynamic>> insertNewListItem(String title, int list) async {
     try {
       Database database = await _initializeDatabase();
       List<Map<String, dynamic>> list = await database.query(
-        visitsTableName,
+        todoItemTableName,
         orderBy: "id DESC",
         columns: ["id"],
         limit: 1,
       );
       int id = await database.insert(
-        visitsTableName,
+        todoItemTableName,
         {
           "id": list.last["id"] + 1,
           "title": title,
           "date": DateFormat("yyyy-MM-DD hh:mm:ss.sss").format(
             DateTime.now(),
           ),
+          "checked": 0,
+          "list_id": list,
         },
       );
       return {
         "id": id,
         "title": title,
         "date": DateTime.now(),
+        "list_id": list,
       };
     } catch (error) {
       echo(variableName: "error", functionName: "insertNewVisit", data: error);
@@ -197,11 +213,11 @@ class DBHelper {
     return {};
   }
 
-  Future<bool> deleteVisit(int id) async {
+  Future<bool> deleteListItem(int id) async {
     try {
       Database database = await _initializeDatabase();
       database.delete(
-        visitsTableName,
+        todoItemTableName,
         where: "id = ?",
         whereArgs: [id],
       );
@@ -211,27 +227,27 @@ class DBHelper {
     return false;
   }
 
-  Future<List<Map<String, dynamic>>> getVisits() async {
+  Future<List<Map<String, dynamic>>> getListItem() async {
     try {
       Database database = await _initializeDatabase();
-      return database.query(visitsTableName, orderBy: "date ASC");
+      return database.query(todoItemTableName, orderBy: "date ASC");
     } catch (error) {
       echo(variableName: "error", functionName: "getVisits", data: error);
     }
     return [];
   }
 
-  Future<Map<String, dynamic>> insertNewWork(String title) async {
+  Future<Map<String, dynamic>> insertNewList(String title) async {
     try {
       Database database = await _initializeDatabase();
       List<Map<String, dynamic>> list = await database.query(
-        todoTableName,
+        todoItemTableName,
         orderBy: "id DESC",
         columns: ["id"],
         limit: 1,
       );
       int id = await database.insert(
-        todoTableName,
+        todoListTableName,
         {
           "id": list.last["id"] + 1,
           "title": title,
@@ -251,11 +267,11 @@ class DBHelper {
     return {};
   }
 
-  Future<bool> deleteWork(int id) async {
+  Future<bool> deleteList(int id) async {
     try {
       Database database = await _initializeDatabase();
       database.delete(
-        todoTableName,
+        todoItemTableName,
         where: "id = ?",
         whereArgs: [id],
       );
@@ -268,7 +284,7 @@ class DBHelper {
   Future<List<Map<String, dynamic>>> getTodoList() async {
     try {
       Database database = await _initializeDatabase();
-      return database.query(todoTableName, orderBy: "date");
+      return database.query(todoItemTableName, orderBy: "date");
     } catch (error) {
       echo(variableName: "error", functionName: "getTodoList", data: error);
     }

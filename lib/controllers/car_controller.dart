@@ -65,14 +65,6 @@ class CarController extends GetxController {
     return list;
   }
 
-  Future<void> _initializeCar() async {
-    List<Map<String, dynamic>> res = await _dbHelper.getCarProducts();
-    for (Map<String, dynamic> product in res) {
-      _products.add({product["id"]: product["quantity"]});
-    }
-    update();
-  }
-
   Future<double> getTotalPrice() async {
     double totalPrice = 0.0;
     for (Map<int, int> product in products) {
@@ -81,11 +73,5 @@ class CarController extends GetxController {
       totalPrice += info["quantity"]! * info["price"]!;
     }
     return totalPrice;
-  }
-
-  @override
-  void onInit() {
-    _initializeCar();
-    super.onInit();
   }
 }
