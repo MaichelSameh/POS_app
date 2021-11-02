@@ -207,9 +207,9 @@ class DBHelper {
         {
           "id": list.isEmpty ? 1 : list.last["id"] + 1,
           "title": title,
-          "date": "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+          "date": DateFormat("yyyy-MM-dd hh:mm:ss").format(
             DateTime.now(),
-          )}",
+          ),
           "checked": 0,
           "list_id": listId,
         },

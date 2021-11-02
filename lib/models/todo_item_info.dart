@@ -1,11 +1,11 @@
-class ToDoItem {
+class ToDoItemInfo {
   late String _title;
   late int _id;
   late int _listId;
   late DateTime _date;
   late bool _checked;
 
-  ToDoItem({
+  ToDoItemInfo({
     required String title,
     required int id,
     required DateTime date,
@@ -25,7 +25,7 @@ class ToDoItem {
   DateTime get date => _date;
   bool get checked => _checked;
 
-  ToDoItem.fromJSON(Map<String, dynamic> jsonData) {
+  ToDoItemInfo.fromJSON(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
     _date = jsonData["date"];
@@ -33,7 +33,7 @@ class ToDoItem {
     _checked = jsonData["checked"] == 1;
   }
 
-  ToDoItem.localDB(Map<String, dynamic> jsonData) {
+  ToDoItemInfo.localDB(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
     _date = DateTime.parse(jsonData["date"].toString());

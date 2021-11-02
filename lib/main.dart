@@ -44,15 +44,18 @@ class MyApp extends StatelessWidget {
                 const NoConnectionScreen(key: Key("no_connection_screen")),
             SplashScreen.route_name: (_) =>
                 const SplashScreen(key: Key("splash_screen")),
+            ChangeLanguageScreen.route_name: (_) =>
+                const ChangeLanguageScreen(key: Key("change_language_screen")),
+            ChangePasswordScreen.route_name: (_) =>
+                const ChangePasswordScreen(key: Key("change_password_screen")),
+            //home screens routes
             ProductsScreen.route_name: (_) => const ProductsScreen(
                   key: Key("product_screen"),
                 ),
             ProductDetailsScreen.route_name: (_) =>
                 const ProductDetailsScreen(key: Key("product_details_screen")),
-            ChangeLanguageScreen.route_name: (_) =>
-                const ChangeLanguageScreen(key: Key("change_language_screen")),
-            ChangePasswordScreen.route_name: (_) =>
-                const ChangePasswordScreen(key: Key("change_password_screen")),
+            QrCodeScreen.route_name: (_) =>
+                const QrCodeScreen(key: Key("qr_code_screen")),
           },
           theme: ThemeData(
             scaffoldBackgroundColor: const Color.fromRGBO(255, 255, 255, 1),

@@ -13,3 +13,4 @@ export 'todo/todo_items_screen.dart';
 export 'todo/todo_screen.dart';
 export 'transaction/transaction_details_screen.dart';
 export 'transaction/transaction_screen.dart';
+export 'home/qr_code_scanner.dart';

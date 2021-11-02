@@ -3,7 +3,7 @@
 import 'package:get/get.dart';
 
 import '../models/note_info.dart';
-import '../models/todo_item.dart';
+import '../models/todo_item_info.dart';
 import '../services/db_helper.dart';
 
 class NoteAndVisitController extends GetxController {
@@ -32,7 +32,7 @@ class NoteAndVisitController extends GetxController {
   }
 
   Future<void> addItemToList(String title, int listID) async {
-    ToDoItem.localDB(
+    ToDoItemInfo.localDB(
       await _dbHelper.insertNewListItem(title, listID),
     );
     update();
@@ -43,11 +43,11 @@ class NoteAndVisitController extends GetxController {
     update();
   }
 
-  Future<List<ToDoItem>> getItems(int listId) async {
+  Future<List<ToDoItemInfo>> getItems(int listId) async {
     List<Map<String, dynamic>> list = await _dbHelper.getListItem(listId);
-    List<ToDoItem> result = [];
+    List<ToDoItemInfo> result = [];
     for (Map<String, dynamic> item in list) {
-      result.add(ToDoItem.localDB(item));
+      result.add(ToDoItemInfo.localDB(item));
     }
     return result;
   }
