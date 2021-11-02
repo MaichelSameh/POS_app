@@ -13,13 +13,21 @@ class NoteAndVisitController extends GetxController {
   List<NoteInfo> get notes => _notes;
 
   Future<void> addList(String title) async {
-    _notes.add(NoteInfo.localDB(await _dbHelper.insertNewList(title)));
+    _notes.insert(0, NoteInfo.localDB(await _dbHelper.insertNewList(title)));
     update();
   }
 
   Future<void> deleteList(int id) async {
     await _dbHelper.deleteList(id);
     _notes.removeWhere((note) => note.id == id);
+    update();
+  }
+
+  Future<void> getList() async {
+    List<Map<String, dynamic>> temp = await _dbHelper.getTodoList();
+    for (Map<String, dynamic> item in temp) {
+      _notes.add(NoteInfo.localDB(item));
+    }
     update();
   }
 
@@ -36,6 +44,17 @@ class NoteAndVisitController extends GetxController {
   }
 
   Future<List<ToDoItem>> getItems(int listId) async {
-    return <ToDoItem>[];
+    List<Map<String, dynamic>> list = await _dbHelper.getListItem(listId);
+    List<ToDoItem> result = [];
+    for (Map<String, dynamic> item in list) {
+      result.add(ToDoItem.localDB(item));
+    }
+    return result;
+  }
+
+  @override
+  void onInit() {
+    getList();
+    super.onInit();
   }
 }

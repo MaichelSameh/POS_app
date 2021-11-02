@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
+import 'package:qr_code_scanner/qr_code_scanner.dart';
 
 import '../../config/palette.dart';
 import '../../controllers/controllers.dart';
@@ -225,8 +226,16 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
               color: Colors.white,
             ),
           ),
-          SizedBox(width: _size.width(19)),
-          SvgPicture.asset("assets/icons/qr_scanner_icon.svg"),
+          GestureDetector(
+            onTap: () {
+              QrView
+            },
+            child: Container(
+              color: Colors.transparent,
+              padding: EdgeInsets.symmetric(horizontal: _size.width(19)),
+              child: SvgPicture.asset("assets/icons/qr_scanner_icon.svg"),
+            ),
+          ),
           const Spacer(),
           Text(
             Get.find<AppLocalizationController>().getTranslatedValue("search"),

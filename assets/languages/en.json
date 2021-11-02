@@ -38,5 +38,7 @@
     "all_transactions": "All transactions",
     "transaction": "Transaction",
     "todo_list": "To Do List",
-    "add_new": "Add new"
+    "add_new": "Add new",
+    "pay_now": "Pay now",
+    "write_title": "Write title"
 }

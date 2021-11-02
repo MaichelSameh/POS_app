@@ -24,6 +24,7 @@ class CarScreen extends StatelessWidget {
               minHeight: _size.screenHeight() - _size.height(150),
               minWidth: double.infinity,
             ),
+            padding: EdgeInsets.symmetric(horizontal: _size.width(13)),
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.only(
@@ -51,16 +52,18 @@ class CarScreen extends StatelessWidget {
                     future: carController.getCarProducts(),
                     builder: (context, snapshot) {
                       if (snapshot.connectionState == ConnectionState.waiting) {
-                        return const PreLoader();
+                        return SizedBox(
+                          height: _size.height(500),
+                          child: const PreLoader(),
+                        );
                       }
                       if (snapshot.hasData) {
                         List<ProductInfo> products =
                             snapshot.data as List<ProductInfo>;
                         return SizedBox(
-                          height: _size.height(590),
+                          height: _size.height(500),
                           child: ListView.separated(
-                            padding: EdgeInsets.symmetric(
-                                horizontal: _size.width(13)),
+                            padding: EdgeInsets.zero,
                             itemBuilder: (_, index) =>
                                 CarProductItem(product: products[index]),
                             separatorBuilder: (_, index) =>
@@ -69,16 +72,52 @@ class CarScreen extends StatelessWidget {
                           ),
                         );
                       }
-                      return Center(
-                        child: Text(
-                          Get.find<AppLocalizationController>()
-                              .getTranslatedValue("no_products_car"),
-                          style: Theme.of(context).textTheme.bodyText1,
+                      return SizedBox(
+                        height: _size.height(500),
+                        child: Center(
+                          child: Text(
+                            Get.find<AppLocalizationController>()
+                                .getTranslatedValue("no_products_car"),
+                            style: Theme.of(context).textTheme.bodyText1,
+                          ),
                         ),
                       );
                     },
                   );
                 }),
+                GetBuilder<CarController>(builder: (carController) {
+                  return FutureBuilder(
+                    future: carController.getTotalPrice(),
+                    builder: (ctx, snapshot) {
+                      double price =
+                          snapshot.hasData ? snapshot.data as double : 0.0;
+                      return CustomElevatedButton(
+                        width: double.infinity,
+                        height: _size.height(72),
+                        onTap: () async {
+                          // Navigator.of(context).push(
+                          //   MaterialPageRoute(
+                          //     builder: (_) => const PaymentScreen(),
+                          //   ),
+                          // );
+                          await Get.find<CarController>().clearCar();
+                        },
+                        child: Text(
+                          Get.find<AppLocalizationController>()
+                                  .getTranslatedValue("pay_now") +
+                              " \$ " +
+                              price.toString(),
+                          style:
+                              Theme.of(context).textTheme.bodyText2!.copyWith(
+                                    color: Colors.white,
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.w500,
+                                  ),
+                        ),
+                      );
+                    },
+                  );
+                })
               ],
             ),
           ),

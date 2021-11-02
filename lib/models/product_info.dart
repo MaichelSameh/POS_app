@@ -67,9 +67,9 @@ class ProductInfo {
   ProductInfo.fromLocalDB(Map<String, dynamic> jsonData) {
     _id = jsonData["id"];
     _title = jsonData["title"];
-    _price = jsonData["price"];
+    _price = double.parse(jsonData["price"].toString());
     _description = jsonData["description"];
-    _images = jsonData["images"];
+    _images = [jsonData["image"]];
     _currency = jsonData["currency"];
     _sku = jsonData["sku"];
     _categoryId = jsonData["category_id"];

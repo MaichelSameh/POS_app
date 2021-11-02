@@ -20,8 +20,8 @@ class CarController extends GetxController {
       update();
     } else {
       _products.add({product.id: quantity});
-      _dbHelper.addNewProduct(
-        price: 1,
+      await _dbHelper.addNewProduct(
+        price: product.price.toInt(),
         description: product.description,
         id: product.id,
         image: product.images.first,
@@ -58,20 +58,42 @@ class CarController extends GetxController {
   Future<List<ProductInfo>> getCarProducts() async {
     List<ProductInfo> list = [];
     List<Map<String, dynamic>> res = await _dbHelper.getCarProducts();
+
     for (Map<String, dynamic> product in res) {
-      _products.add({product["id"]: product["quantity"]});
-      list.add(ProductInfo.fromJSON(product));
+      list.add(ProductInfo.fromLocalDB(product));
     }
     return list;
+  }
+
+  Future<void> _init() async {
+    List<Map<String, dynamic>> res = await _dbHelper.getCarProducts();
+
+    for (Map<String, dynamic> product in res) {
+      _products.add({product["id"]: product["quantity"]});
+    }
+    update();
   }
 
   Future<double> getTotalPrice() async {
     double totalPrice = 0.0;
     for (Map<int, int> product in products) {
-      Map<String, int> info =
+      Map<String, dynamic> info =
           await _dbHelper.getProductPriceAndQuantity(product.keys.first);
       totalPrice += info["quantity"]! * info["price"]!;
     }
     return totalPrice;
+  }
+
+  Future<bool> clearCar() async {
+    bool cleared = await _dbHelper.clearCar();
+    _products.clear();
+    update();
+    return cleared;
+  }
+
+  @override
+  void onInit() {
+    _init();
+    super.onInit();
   }
 }

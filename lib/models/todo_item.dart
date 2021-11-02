@@ -10,11 +10,13 @@ class ToDoItem {
     required int id,
     required DateTime date,
     required int listId,
+    required int checked,
   }) {
     _title = title;
     _id = id;
     _date = date;
     _listId = listId;
+    _checked = checked == 1;
   }
 
   String get title => _title;
@@ -34,7 +36,7 @@ class ToDoItem {
   ToDoItem.localDB(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
-    _date = jsonData["date"];
+    _date = DateTime.parse(jsonData["date"].toString());
     _listId = jsonData["list_id"];
     _checked = jsonData["checked"] == 1;
   }

@@ -30,7 +30,7 @@ class ToDoScreen extends StatelessWidget {
           Container(
             padding: EdgeInsets.symmetric(horizontal: _size.width(15)),
             constraints: BoxConstraints(
-              minHeight: _size.screenHeight() - _size.height(150),
+              minHeight: _size.screenHeight() - _size.height(120),
               minWidth: double.infinity,
             ),
             decoration: BoxDecoration(
@@ -41,25 +41,31 @@ class ToDoScreen extends StatelessWidget {
               ),
             ),
             child: GetBuilder<NoteAndVisitController>(
-              builder: (noteAndVisitController) => Column(
-                children: [
-                  SizedBox(height: _size.height(40)),
-                  Text(
-                    Get.find<AppLocalizationController>()
-                        .getTranslatedValue("todo_list"),
-                    style: Theme.of(context).textTheme.headline2,
-                  ),
-                  SizedBox(height: _size.height(34)),
-                  ...noteAndVisitController.notes
-                      .map<Widget>((item) => ToDoListItem(
-                            title: item.title,
-                            date: item.date,
-                            id: item.id,
-                          ))
-                      .toList(),
-                  AddNewToDo(onTap: () {})
-                ],
-              ),
+              builder: (noteAndVisitController) {
+                return Column(
+                  children: [
+                    SizedBox(height: _size.height(40)),
+                    Text(
+                      Get.find<AppLocalizationController>()
+                          .getTranslatedValue("todo_list"),
+                      style: Theme.of(context).textTheme.headline2,
+                    ),
+                    SizedBox(height: _size.height(34)),
+                    ...noteAndVisitController.notes
+                        .map<Widget>((item) => ToDoListItem(
+                              title: item.title,
+                              date: item.date,
+                              id: item.id,
+                            ))
+                        .toList(),
+                    AddNewToDo(
+                      onTap: (title) {
+                        Get.find<NoteAndVisitController>().addList(title);
+                      },
+                    ),
+                  ],
+                );
+              },
             ),
           ),
         ],

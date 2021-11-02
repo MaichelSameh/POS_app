@@ -26,7 +26,7 @@ class NoteInfo {
   NoteInfo.localDB(Map<String, dynamic> jsonData) {
     _title = jsonData["title"];
     _id = jsonData["id"];
-    _date = jsonData["date"];
+    _date = DateTime.parse(jsonData["date"].toString());
   }
 
   @override

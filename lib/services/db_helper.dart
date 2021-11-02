@@ -59,10 +59,18 @@ class DBHelper {
               );
             ''');
           await db.execute('''
-              insert into $todoListTableName (id, title, date) values (1, "Today's visits", ${DateTime.now()});
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", ${DateTime.now()}, 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", ${DateTime.now()}, 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", ${DateTime.now()}, 1, 0);
+              insert into $todoListTableName (id, title, date) values (1, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+            DateTime.now(),
+          )}");
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+            DateTime.now(),
+          )}", 1, 0);
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+            DateTime.now(),
+          )}", 1, 0);
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+            DateTime.now(),
+          )}", 1, 0);
             ''');
         },
       );
@@ -159,28 +167,33 @@ class DBHelper {
   Future<List<Map<String, dynamic>>> getCarProducts() async {
     try {
       Database database = await _initializeDatabase();
-      return database.query(carTableName, orderBy: "id");
+      List<Map<String, dynamic>> list = await database.query(carTableName);
+      return list;
     } catch (error) {
       echo(variableName: "error", functionName: "getCarProduct", data: error);
     }
     return [];
   }
 
-  Future<Map<String, int>> getProductPriceAndQuantity(int id) async {
+  Future<Map<String, dynamic>> getProductPriceAndQuantity(int id) async {
     try {
       Database database = await _initializeDatabase();
       List<Map<String, dynamic>> temp = await database.rawQuery(
         "SELECT quantity, price FROM $carTableName where id = $id;",
       );
-      Map<String, int> map = temp.first as Map<String, int>;
+      Map<String, dynamic> map = temp.first;
       return map;
     } catch (error) {
-      echo(variableName: "error", functionName: "getCarProduct", data: error);
+      echo(
+          variableName: "error",
+          functionName: "getProductPriceAndQuantity",
+          data: error);
     }
     return {};
   }
 
-  Future<Map<String, dynamic>> insertNewListItem(String title, int list) async {
+  Future<Map<String, dynamic>> insertNewListItem(
+      String title, int listId) async {
     try {
       Database database = await _initializeDatabase();
       List<Map<String, dynamic>> list = await database.query(
@@ -192,23 +205,28 @@ class DBHelper {
       int id = await database.insert(
         todoItemTableName,
         {
-          "id": list.last["id"] + 1,
+          "id": list.isEmpty ? 1 : list.last["id"] + 1,
           "title": title,
-          "date": DateFormat("yyyy-MM-DD hh:mm:ss.sss").format(
+          "date": "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
             DateTime.now(),
-          ),
+          )}",
           "checked": 0,
-          "list_id": list,
+          "list_id": listId,
         },
       );
       return {
         "id": id,
         "title": title,
-        "date": DateTime.now(),
+        "date": DateFormat("yyyy-MM-dd hh:mm:ss").format(
+          DateTime.now(),
+        ),
         "list_id": list,
       };
     } catch (error) {
-      echo(variableName: "error", functionName: "insertNewVisit", data: error);
+      echo(
+          variableName: "error",
+          functionName: "insertNewListItem",
+          data: error);
     }
     return {};
   }
@@ -227,10 +245,11 @@ class DBHelper {
     return false;
   }
 
-  Future<List<Map<String, dynamic>>> getListItem() async {
+  Future<List<Map<String, dynamic>>> getListItem(int listId) async {
     try {
       Database database = await _initializeDatabase();
-      return database.query(todoItemTableName, orderBy: "date ASC");
+      return await database.query(todoItemTableName,
+          where: 'list_id = ?', whereArgs: [listId], orderBy: "date ASC");
     } catch (error) {
       echo(variableName: "error", functionName: "getVisits", data: error);
     }
@@ -241,7 +260,7 @@ class DBHelper {
     try {
       Database database = await _initializeDatabase();
       List<Map<String, dynamic>> list = await database.query(
-        todoItemTableName,
+        todoListTableName,
         orderBy: "id DESC",
         columns: ["id"],
         limit: 1,
@@ -249,9 +268,9 @@ class DBHelper {
       int id = await database.insert(
         todoListTableName,
         {
-          "id": list.last["id"] + 1,
+          "id": list.isEmpty ? 1 : list.last["id"] + 1,
           "title": title,
-          "date": DateFormat("yyyy-MM-DD hh:mm:ss.sss").format(
+          "date": DateFormat("yyyy-MM-dd hh:mm:ss").format(
             DateTime.now(),
           ),
         },
@@ -284,7 +303,7 @@ class DBHelper {
   Future<List<Map<String, dynamic>>> getTodoList() async {
     try {
       Database database = await _initializeDatabase();
-      return database.query(todoItemTableName, orderBy: "date");
+      return database.query(todoListTableName, orderBy: "date");
     } catch (error) {
       echo(variableName: "error", functionName: "getTodoList", data: error);
     }

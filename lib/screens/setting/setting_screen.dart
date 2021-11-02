@@ -23,7 +23,7 @@ class SettingScreen extends StatelessWidget {
             allowBackAction: true,
           ),
           Container(
-            height: _size.height(685),
+            height: _size.height(675),
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.only(
@@ -77,7 +77,6 @@ class SettingScreen extends StatelessWidget {
                   title: "change_password",
                   context: context,
                   trailing: SvgPicture.asset(
-                    //TODO CHANGE ICON NAME
                     "assets/icons/to_icon.svg",
                     color: const Color.fromRGBO(141, 141, 141, 1),
                     width: _size.width(16),

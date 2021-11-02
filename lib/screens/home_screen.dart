@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
     const SettingScreen(
       key: Key("setting_screen"),
     ),
-    const SizedBox(),
+    const ToDoScreen(),
   ];
 
   PageController pageController = PageController();
@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
             currentPage = pageNumber;
             pageController.animateToPage(
               currentPage,
-              duration: const Duration(milliseconds: 700),
+              duration: const Duration(milliseconds: 500),
               curve: Curves.bounceIn,
             );
           });

@@ -24,8 +24,16 @@ class _PaymentScreenState extends State<PaymentScreen> {
       child: ListView(
         padding: EdgeInsets.zero,
         children: [
-          const MyCustomAppBar(titleKey: "pos"),
+          const MyCustomAppBar(
+            titleKey: "pos",
+            allowBackAction: true,
+          ),
           Container(
+            padding: EdgeInsets.symmetric(horizontal: _size.width(44)),
+            constraints: BoxConstraints(
+              minHeight: _size.screenHeight() - _size.height(150),
+              minWidth: double.infinity,
+            ),
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.only(
@@ -43,17 +51,26 @@ class _PaymentScreenState extends State<PaymentScreen> {
                         .getTranslatedValue("client_info")
                         .toUpperCase(),
                     style: Theme.of(context).textTheme.bodyText1!.copyWith(
-                          fontSize: 28,
+                          fontSize: 25,
                           fontWeight: FontWeight.bold,
                         ),
                   ),
                 ),
                 CustomDropdownButton(
-                  hint: Text(
-                    Get.find<AppLocalizationController>()
-                        .getTranslatedValue("client_info")
-                        .toUpperCase(),
-                    style: Theme.of(context).textTheme.bodyText1,
+                  width: double.infinity,
+                  height: _size.height(68),
+                  hint: Padding(
+                    padding: EdgeInsets.symmetric(horizontal: _size.width(25)),
+                    child: Text(
+                      Get.find<AppLocalizationController>()
+                          .getTranslatedValue("client_info")
+                          .toUpperCase(),
+                      style: Theme.of(context).textTheme.bodyText1!.copyWith(
+                            fontSize: 15,
+                            color: const Color.fromRGBO(196, 198, 204, 1),
+                            fontWeight: FontWeight.w500,
+                          ),
+                    ),
                   ),
                   items: [],
                   onChange: (dynamic value) {},

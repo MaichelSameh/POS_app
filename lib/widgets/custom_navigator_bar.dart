@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:pos_system/controllers/controllers.dart';
 
+import '../controllers/controllers.dart';
 import '../config/palette.dart';
 import '../models/size.dart';
 
@@ -40,13 +40,16 @@ class MyCustomNavigatorBar extends StatelessWidget {
             iconWidth: _size.width(25),
             size: _size,
           ),
-          _buildNavBarItem(
-            pageNumber: 1,
-            iconName: "cart_icon",
-            iconHeight: _size.width(25),
-            iconWidth: _size.width(25),
-            size: _size,
-          ),
+          GetBuilder<CarController>(builder: (carController) {
+            return _buildNavBarItem(
+              pageNumber: 1,
+              iconName: "cart_icon",
+              iconHeight: _size.width(25),
+              iconWidth: _size.width(25),
+              size: _size,
+              hasItems: carController.products.isNotEmpty,
+            );
+          }),
           _buildNavBarItem(
             pageNumber: 2,
             iconName: "transaction_icon",
@@ -87,7 +90,7 @@ class MyCustomNavigatorBar extends StatelessWidget {
         children: [
           if (hasItems)
             Positioned(
-              top: size.width(25),
+              top: size.width(currentPage == pageNumber ? 22 : 25),
               right: Get.find<AppLocalizationController>().isRTLanguage
                   ? size.width(17)
                   : size.width(0),
@@ -96,7 +99,7 @@ class MyCustomNavigatorBar extends StatelessWidget {
                   : size.width(0),
               child: CircleAvatar(
                 radius: size.width(8),
-                backgroundColor: const Color.fromRGBO(241, 92, 92, 1),
+                backgroundColor: const Color.fromRGBO(241, 92, 92, 0.7),
               ),
             ),
           Container(
