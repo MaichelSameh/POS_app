@@ -59,16 +59,28 @@ class DBHelper {
               );
             ''');
           await db.execute('''
-              insert into $todoListTableName (id, title, date) values (1, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+              insert into $todoListTableName (id, title, date) values (1, "Today's visits", "${DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
           )}");
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", "${DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
           )}", 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", "${DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
           )}", 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", "${DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
           )}", 1, 0);
             ''');
@@ -207,9 +219,12 @@ class DBHelper {
         {
           "id": list.isEmpty ? 1 : list.last["id"] + 1,
           "title": title,
-          "date": "${DateFormat("yyyy-MM-dd hh:mm:ss").format(
+          "date": DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
-          )}",
+          ),
           "checked": 0,
           "list_id": listId,
         },
@@ -217,7 +232,10 @@ class DBHelper {
       return {
         "id": id,
         "title": title,
-        "date": DateFormat("yyyy-MM-dd hh:mm:ss").format(
+        "date": DateFormat(
+          "yyyy-MM-dd hh:mm:ss",
+          "en",
+        ).format(
           DateTime.now(),
         ),
         "list_id": list,
@@ -270,7 +288,10 @@ class DBHelper {
         {
           "id": list.isEmpty ? 1 : list.last["id"] + 1,
           "title": title,
-          "date": DateFormat("yyyy-MM-dd hh:mm:ss").format(
+          "date": DateFormat(
+            "yyyy-MM-dd hh:mm:ss",
+            "en",
+          ).format(
             DateTime.now(),
           ),
         },

@@ -72,7 +72,7 @@ class _PaymentScreenState extends State<PaymentScreen> {
                           ),
                     ),
                   ),
-                  items: [],
+                  items: const [],
                   onChange: (dynamic value) {},
                 ),
               ],
