@@ -89,6 +89,7466 @@ List<CategoryInfo> categories = [
 
 List<ProductInfo> products = [
   ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 47,
+    sku: "00z47",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 28,
+    sku: "00z28",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 34,
+    sku: "00z34",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 85,
+    sku: "00z85",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 172,
+    sku: "00z172",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 14,
+    sku: "00z14",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 149,
+    sku: "00z149",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 87,
+    sku: "00z87",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 15,
+    sku: "00z15",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 96,
+    sku: "00z96",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 177,
+    sku: "00z177",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 169,
+    sku: "00z169",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 113,
+    sku: "00z113",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 156,
+    sku: "00z156",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 24,
+    sku: "00z24",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 153,
+    sku: "00z153",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 179,
+    sku: "00z179",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 9,
+    sku: "00z9",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 65,
+    sku: "00z65",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 17,
+    sku: "00z17",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 42,
+    sku: "00z42",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 192,
+    sku: "00z192",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 145,
+    sku: "00z145",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 75,
+    sku: "00z75",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 193,
+    sku: "00z193",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 4,
+    sku: "00z4",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 111,
+    sku: "00z111",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 44,
+    sku: "00z44",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 61,
+    sku: "00z61",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 157,
+    sku: "00z157",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 115,
+    sku: "00z115",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 92,
+    sku: "00z92",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 141,
+    sku: "00z141",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 163,
+    sku: "00z163",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 54,
+    sku: "00z54",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 150,
+    sku: "00z150",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 187,
+    sku: "00z187",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 200,
+    sku: "00z200",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 51,
+    sku: "00z51",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 71,
+    sku: "00z71",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 130,
+    sku: "00z130",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 198,
+    sku: "00z198",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 197,
+    sku: "00z197",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 114,
+    sku: "00z114",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 165,
+    sku: "00z165",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 166,
+    sku: "00z166",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 159,
+    sku: "00z159",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 112,
+    sku: "00z112",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 63,
+    sku: "00z63",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 52,
+    sku: "00z52",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 131,
+    sku: "00z131",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 48,
+    sku: "00z48",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 103,
+    sku: "00z103",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 59,
+    sku: "00z59",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 22,
+    sku: "00z22",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 99,
+    sku: "00z99",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 7,
+    sku: "00z7",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 41,
+    sku: "00z41",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 144,
+    sku: "00z144",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 16,
+    sku: "00z16",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 6,
+    sku: "00z6",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 2,
+    sku: "00z2",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 38,
+    sku: "00z38",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 108,
+    sku: "00z108",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 183,
+    sku: "00z183",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 161,
+    sku: "00z161",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 168,
+    sku: "00z168",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 128,
+    sku: "00z128",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 55,
+    sku: "00z55",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 94,
+    sku: "00z94",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 170,
+    sku: "00z170",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 11,
+    sku: "00z11",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 132,
+    sku: "00z132",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 158,
+    sku: "00z158",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 188,
+    sku: "00z188",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 69,
+    sku: "00z69",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 30,
+    sku: "00z30",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 8,
+    sku: "00z8",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 89,
+    sku: "00z89",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 178,
+    sku: "00z178",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 181,
+    sku: "00z181",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 174,
+    sku: "00z174",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 91,
+    sku: "00z91",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 189,
+    sku: "00z189",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 95,
+    sku: "00z95",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 142,
+    sku: "00z142",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 23,
+    sku: "00z23",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 191,
+    sku: "00z191",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 102,
+    sku: "00z102",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 46,
+    sku: "00z46",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 164,
+    sku: "00z164",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 84,
+    sku: "00z84",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 104,
+    sku: "00z104",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 77,
+    sku: "00z77",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 90,
+    sku: "00z90",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 194,
+    sku: "00z194",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 81,
+    sku: "00z81",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 67,
+    sku: "00z67",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 74,
+    sku: "00z74",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 76,
+    sku: "00z76",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 27,
+    sku: "00z27",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 43,
+    sku: "00z43",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 101,
+    sku: "00z101",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 196,
+    sku: "00z196",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 49,
+    sku: "00z49",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 25,
+    sku: "00z25",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 39,
+    sku: "00z39",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 135,
+    sku: "00z135",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 146,
+    sku: "00z146",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 143,
+    sku: "00z143",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 97,
+    sku: "00z97",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 199,
+    sku: "00z199",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 83,
+    sku: "00z83",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 5,
+    sku: "00z5",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 119,
+    sku: "00z119",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 125,
+    sku: "00z125",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 1,
+    sku: "00z1",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 138,
+    sku: "00z138",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 86,
+    sku: "00z86",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 45,
+    sku: "00z45",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 68,
+    sku: "00z68",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 33,
+    sku: "00z33",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 60,
+    sku: "00z60",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 123,
+    sku: "00z123",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 10,
+    sku: "00z10",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 105,
+    sku: "00z105",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 133,
+    sku: "00z133",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 129,
+    sku: "00z129",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 118,
+    sku: "00z118",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 88,
+    sku: "00z88",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 180,
+    sku: "00z180",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 58,
+    sku: "00z58",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 117,
+    sku: "00z117",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 173,
+    sku: "00z173",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 66,
+    sku: "00z66",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 134,
+    sku: "00z134",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 26,
+    sku: "00z26",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 93,
+    sku: "00z93",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 171,
+    sku: "00z171",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 185,
+    sku: "00z185",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 20,
+    sku: "00z20",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 19,
+    sku: "00z19",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 195,
+    sku: "00z195",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 152,
+    sku: "00z152",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 116,
+    sku: "00z116",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 155,
+    sku: "00z155",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 78,
+    sku: "00z78",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 79,
+    sku: "00z79",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 80,
+    sku: "00z80",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 73,
+    sku: "00z73",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 175,
+    sku: "00z175",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 137,
+    sku: "00z137",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 12,
+    sku: "00z12",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 57,
+    sku: "00z57",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 124,
+    sku: "00z124",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 29,
+    sku: "00z29",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 160,
+    sku: "00z160",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 186,
+    sku: "00z186",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 121,
+    sku: "00z121",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 148,
+    sku: "00z148",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 53,
+    sku: "00z53",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 136,
+    sku: "00z136",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 3,
+    sku: "00z3",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 182,
+    sku: "00z182",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 13,
+    sku: "00z13",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 139,
+    sku: "00z139",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 21,
+    sku: "00z21",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 126,
+    sku: "00z126",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 36,
+    sku: "00z36",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 32,
+    sku: "00z32",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 106,
+    sku: "00z106",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 70,
+    sku: "00z70",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 154,
+    sku: "00z154",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 98,
+    sku: "00z98",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 64,
+    sku: "00z64",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 56,
+    sku: "00z56",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 120,
+    sku: "00z120",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 109,
+    sku: "00z109",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Rolex 2021 unworn GMT-Master II 40mm",
+    description:
+        '''In 1954, Swiss watchmakers Rolex teamed up with some of the biggest names in aviation to create a series of timepieces with a fourth hand for displaying additional time for pilots. Originally coining the name 'GMT-Master' from the Greenwich Mean Time, this 2021 unworn GMT-Master II 40mm offering is anchored with all the original aspects of the design, from the index hands to the corresponding number markings on the outer bezel.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706501_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705661_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35705658_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706504_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/30/10/19/17301019_35706500_1000.jpg",
+    ],
+    price: 91214.0,
+    id: 18,
+    sku: "00z18",
+    categoryId: 3,
+    brandId: 16,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 100,
+    sku: "00z100",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 127,
+    sku: "00z127",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 147,
+    sku: "00z147",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 40,
+    sku: "00z40",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "OMEGA 2021 unworn Seamaster Diver 300M 007 Edition 42mm",
+    description:
+        '''Built to withstand the toughest conditions, OMEGA's Seamaster 007 Edition timepiece is one of the more recent takes on the timepiece that has been around since the late 1940s. Built with military needs in mind, this 2021 unworn Seamaster Diver 300M 007 Edition 42mm was designed in collaboration with the fine watch specialists, Daniel Craig and the James Bond filmmakers, inspired by Craig's experience as 007 himself. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216524_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214705_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34214706_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216526_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/04/34/96/17043496_34216525_1000.jpg",
+    ],
+    price: 21155.0,
+    id: 151,
+    sku: "00z151",
+    categoryId: 3,
+    brandId: 14,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 31,
+    sku: "00z31",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 110,
+    sku: "00z110",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Vacheron Constantin 1950 pre-owned Vintage 37.5mm",
+    description:
+        '''Since 1755, watchmaking excellence has been at the heart of Vacheron Constantin designs. Handcrafted in Geneva, each timepiece is a further dive into ornate yet precise timekeeping and this 1950 pre-owned Vintage 37.5mm will ensure nothing but sophistication with a punctual finish. ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19i2naGsdjrso6_HiGBhf38V7M6grCVfnOg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK20ty4XhEyHtr18rB8X6AhqQT_MsCza7WUQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalMgLpqf962Zw13yev5mHBGa6EoSgYnn8cQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKj-8BRUefEvwpkKc3-qI-DwSmnBfTp39qw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaHpJskIGgFCbP59C0dMWRW78xuO8Lp-oQ&usqp=CAU",
+    ],
+    price: 33346.0,
+    id: 50,
+    sku: "00z50",
+    categoryId: 3,
+    brandId: 9,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 176,
+    sku: "00z176",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 140,
+    sku: "00z140",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 162,
+    sku: "00z162",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Glashütte 2020 unworn Senator Excellence Panoramadatum 40mm",
+    description:
+        '''Simplicity is key. Crafted from stainless steel with a link bracelet, this 2020 unworn Senator Excellence Panoramadatum 40mm from Glashütte boasts a two-hand display and round face. Never miss a beat.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33084304_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082847_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33083111_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082850_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/73/83/23/16738323_33082848_1000.jpg",
+    ],
+    price: 18800.0,
+    id: 167,
+    sku: "00z167",
+    categoryId: 3,
+    brandId: 15,
+  ),
+  ProductInfo(
+    title: "Blancpain 2020 unworn Fifty Fathoms Bathyscaphe 43mm",
+    description:
+        '''Time is always on your side when you have a great watch. Crafted from stainless steel with a fabric strap, this 2020 unworn Fifty Fathoms Bathyscaphe 43mm from Blancpain is all you need to make sure you're on time and keeping track of the seconds, minutes and hours in style. Sleek and sophisticated. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493509_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494582_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29494585_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/15/89/49/95/15894995_29493506_1000.jpg",
+    ],
+    price: 15019.0,
+    id: 82,
+    sku: "00z82",
+    categoryId: 3,
+    brandId: 11,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 62,
+    sku: "00z62",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 184,
+    sku: "00z184",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 35,
+    sku: "00z35",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "JAQUET DROZ PETITE HEURE MINUTE “DRAGON”",
+    description:
+        '''THE FIRST MASTERPIECE CREATED FROM THE COLLABORATION BETWEEN JAQUET DROZ AND JOHN HOWE''',
+    images: [
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-ambiance.jpg?itok=_F9iN00l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-front.jpg?itok=jgAddL7l",
+      "https://www.swatchgroup.com/sites/default/files/styles/content_gallery/public/content-galleries/red-dragon-gold-back.jpg?itok=8l9bODQV",
+    ],
+    price: 36900.0,
+    id: 190,
+    sku: "00z190",
+    categoryId: 3,
+    brandId: 17,
+  ),
+  ProductInfo(
+    title: "Audemars Piguet 2021 unworn Royal Oak Selfwinding",
+    description:
+        '''\"SIHH 2019\" 41mm//nFor over 100 years, Audemars Piguet has been at the centre of fine watchmaking. Demonstrating impeccable know-how, this 2021 unworn Royal Oak Selfwinding \"SIHH 2019\" 41mm is a distinctive piece from the collection offering an archival look at a true hero. First presented in 1972, the Royal Oak silhouette was designed to offer a more modern take on a classic watch design. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699555_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35700188_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699556_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35698579_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/17/29/89/98/17298998_35699553_1000.jpg",
+    ],
+    price: 190269.0,
+    id: 72,
+    sku: "00z72",
+    categoryId: 3,
+    brandId: 10,
+  ),
+  ProductInfo(
+    title: "Patek Philippe 2019 unworn Aquanaut 40mm",
+    description:
+        '''Established in London's historic Diamond Quarter- Hatton Garden- 777 presents their collection of reimagined timepieces to honour the past while paving the future. Swiss luxury timepiece retailer Patek Philippe presents their collection of classic and timeless pieces for the discerning gentleman, like this 2019 unworn Aquanaut 40mm. Crafted from 18kt rose gold-plated stainless steel, the sleek piece fastens around the wrist with a rubber strap. Sleek and polished.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_68UbVLR2jj4W8GblrMIAK-p0o7PEq8vgng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAgIU544UWFnCNBS9tqWBag7aspUQ6GGRyg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYo85g0K9DWGTLrLr5C3d5AiyraVLLkH-Eg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQenX3j1ee6WpDzQHsHzjWUawOLY3Zludn6UQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2g-w8O1oYurwWXC6O9RSFZBcEyX5XAfqBg&usqp=CAU",
+    ],
+    price: 175806.0,
+    id: 37,
+    sku: "00z37",
+    categoryId: 3,
+    brandId: 8,
+  ),
+  ProductInfo(
+    title: "Jaeger-LeCoultre 2021 unworn Master Control Date 40mm",
+    description:
+        '''Sleek and timeless. Crafted from stainless steel with a leather strap, this 2021 unworn Master Control Date 40mm from Jaeger-LeCoultre is the perfect addition to your ever-growing timepiece collection. Powered by an automatic movement, this piece is perfect for daily wear. ''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115133_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33115132_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116011_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116012_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/16/75/11/33/16751133_33116010_1000.jpg",
+    ],
+    price: 11762.0,
+    id: 122,
+    sku: "00z122",
+    categoryId: 3,
+    brandId: 13,
+  ),
+  ProductInfo(
+    title: "Ulysse Nardin Marine Chronometer 43mm",
+    description:
+        '''Stemming from strong nautical roots, Ulysse Nardin’s Marine Collection pays homage to the high-precision marine chronometers of the past. Inspired by the movement of the ocean, these timepieces are the ultimate expression of technical performance and contemporary design. Handcrafted in Switzerland from 18k rose gold, the Marine Chronometer 43mm features a self-winding Calibre UN-118 movement, a 60-hour power reserve indication, an oversized seconds hand, a date indicator, Silicium and Diamonsil technology, a 200m water resistance, a screw-down security crown, a scratch-resistant sapphire crystal face, a blue lacquered dial with Roman Numeral figures and a rubber strap with an 18k rose gold element and deployant clasp. This item comes with a standard 2-year international warranty from the brand.''',
+    images: [
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689975_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689980_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13689994_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690006_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690021_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690031_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690043_1000.jpg",
+      "https://cdn-images.farfetch-contents.com/12/80/99/58/12809958_13690051_1000.jpg",
+    ],
+    price: 59243.0,
+    id: 107,
+    sku: "00z107",
+    categoryId: 3,
+    brandId: 12,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 162,
+    sku: "00z162",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 42,
+    sku: "00z42",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 144,
+    sku: "00z144",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 184,
+    sku: "00z184",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 82,
+    sku: "00z82",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 56,
+    sku: "00z56",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 137,
+    sku: "00z137",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 108,
+    sku: "00z108",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 191,
+    sku: "00z191",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 29,
+    sku: "00z29",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 45,
+    sku: "00z45",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 109,
+    sku: "00z109",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 148,
+    sku: "00z148",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 139,
+    sku: "00z139",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 5,
+    sku: "00z5",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 60,
+    sku: "00z60",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 92,
+    sku: "00z92",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 117,
+    sku: "00z117",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 50,
+    sku: "00z50",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 100,
+    sku: "00z100",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 135,
+    sku: "00z135",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 58,
+    sku: "00z58",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 96,
+    sku: "00z96",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 134,
+    sku: "00z134",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 124,
+    sku: "00z124",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 36,
+    sku: "00z36",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 81,
+    sku: "00z81",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 10,
+    sku: "00z10",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 120,
+    sku: "00z120",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 20,
+    sku: "00z20",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 140,
+    sku: "00z140",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 28,
+    sku: "00z28",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 160,
+    sku: "00z160",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 69,
+    sku: "00z69",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 30,
+    sku: "00z30",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 198,
+    sku: "00z198",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 12,
+    sku: "00z12",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 86,
+    sku: "00z86",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 93,
+    sku: "00z93",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 181,
+    sku: "00z181",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 130,
+    sku: "00z130",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 169,
+    sku: "00z169",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 149,
+    sku: "00z149",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 180,
+    sku: "00z180",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 19,
+    sku: "00z19",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 172,
+    sku: "00z172",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 7,
+    sku: "00z7",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 26,
+    sku: "00z26",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 79,
+    sku: "00z79",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 99,
+    sku: "00z99",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 13,
+    sku: "00z13",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 153,
+    sku: "00z153",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 177,
+    sku: "00z177",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 55,
+    sku: "00z55",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 146,
+    sku: "00z146",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 63,
+    sku: "00z63",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 166,
+    sku: "00z166",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 196,
+    sku: "00z196",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 158,
+    sku: "00z158",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 54,
+    sku: "00z54",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 114,
+    sku: "00z114",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 157,
+    sku: "00z157",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 3,
+    sku: "00z3",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 91,
+    sku: "00z91",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 101,
+    sku: "00z101",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 155,
+    sku: "00z155",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 175,
+    sku: "00z175",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 8,
+    sku: "00z8",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 105,
+    sku: "00z105",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 57,
+    sku: "00z57",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 119,
+    sku: "00z119",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 83,
+    sku: "00z83",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 44,
+    sku: "00z44",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 61,
+    sku: "00z61",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 182,
+    sku: "00z182",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 66,
+    sku: "00z66",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 142,
+    sku: "00z142",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 129,
+    sku: "00z129",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 128,
+    sku: "00z128",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 72,
+    sku: "00z72",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 89,
+    sku: "00z89",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 125,
+    sku: "00z125",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 35,
+    sku: "00z35",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 126,
+    sku: "00z126",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 165,
+    sku: "00z165",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 116,
+    sku: "00z116",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 141,
+    sku: "00z141",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 24,
+    sku: "00z24",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 75,
+    sku: "00z75",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 49,
+    sku: "00z49",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 173,
+    sku: "00z173",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 185,
+    sku: "00z185",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 118,
+    sku: "00z118",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 163,
+    sku: "00z163",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 154,
+    sku: "00z154",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 152,
+    sku: "00z152",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 199,
+    sku: "00z199",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 107,
+    sku: "00z107",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 23,
+    sku: "00z23",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 176,
+    sku: "00z176",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 34,
+    sku: "00z34",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 195,
+    sku: "00z195",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 161,
+    sku: "00z161",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 113,
+    sku: "00z113",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 127,
+    sku: "00z127",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 188,
+    sku: "00z188",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 87,
+    sku: "00z87",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 11,
+    sku: "00z11",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 193,
+    sku: "00z193",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 167,
+    sku: "00z167",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 2,
+    sku: "00z2",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 16,
+    sku: "00z16",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 15,
+    sku: "00z15",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 189,
+    sku: "00z189",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 187,
+    sku: "00z187",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 46,
+    sku: "00z46",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 85,
+    sku: "00z85",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 77,
+    sku: "00z77",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 80,
+    sku: "00z80",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 64,
+    sku: "00z64",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 164,
+    sku: "00z164",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 159,
+    sku: "00z159",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 71,
+    sku: "00z71",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 17,
+    sku: "00z17",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 47,
+    sku: "00z47",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 168,
+    sku: "00z168",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 112,
+    sku: "00z112",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 147,
+    sku: "00z147",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 37,
+    sku: "00z37",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 95,
+    sku: "00z95",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 151,
+    sku: "00z151",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 197,
+    sku: "00z197",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 48,
+    sku: "00z48",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 38,
+    sku: "00z38",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 122,
+    sku: "00z122",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 97,
+    sku: "00z97",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 115,
+    sku: "00z115",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 25,
+    sku: "00z25",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 88,
+    sku: "00z88",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 132,
+    sku: "00z132",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 186,
+    sku: "00z186",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 121,
+    sku: "00z121",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 192,
+    sku: "00z192",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 76,
+    sku: "00z76",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 174,
+    sku: "00z174",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 40,
+    sku: "00z40",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 22,
+    sku: "00z22",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 65,
+    sku: "00z65",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 84,
+    sku: "00z84",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 9,
+    sku: "00z9",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 104,
+    sku: "00z104",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 179,
+    sku: "00z179",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 145,
+    sku: "00z145",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 41,
+    sku: "00z41",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 27,
+    sku: "00z27",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 170,
+    sku: "00z170",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 190,
+    sku: "00z190",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 32,
+    sku: "00z32",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 110,
+    sku: "00z110",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 70,
+    sku: "00z70",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 53,
+    sku: "00z53",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 171,
+    sku: "00z171",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 131,
+    sku: "00z131",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 156,
+    sku: "00z156",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 111,
+    sku: "00z111",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 98,
+    sku: "00z98",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 90,
+    sku: "00z90",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 150,
+    sku: "00z150",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 74,
+    sku: "00z74",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 59,
+    sku: "00z59",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 102,
+    sku: "00z102",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 68,
+    sku: "00z68",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 6,
+    sku: "00z6",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 194,
+    sku: "00z194",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 133,
+    sku: "00z133",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 106,
+    sku: "00z106",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Apple MacBook Pro 13-Inch (M1, Late 2020)",
+    description:
+        '''Now powered by Apple’s M1 CPU, the 13-inch MacBook Pro remains a workhorse for those who want a compact macOS laptop that's still powerful enough to perform processor-intensive workflows.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcWLpspLwBeR6su79L9pC7To3C8sECqUd5g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiqzO84r2wN2aCXJDqcq4-v1mw-MNT57QmA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCoNwxPTD84cr3Czy9rGiLHRJqjPOpGiIPw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1LmxuKQDGq542gzX6DJUEH2J3XzTbyBQcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRME-ASWkv36BvdjWygyG_kq2T42YxP6oM5sQ&usqp=CAU",
+    ],
+    price: 1099.99,
+    id: 178,
+    sku: "00z178",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP SPECTRE X360 14",
+    description:
+        '''The HP Spectre x360 2-in-1 PC automatically adjusts to your surroundings to give you the best on-screen image. But the heart of the smart is the HP Command Center that adjusts performance automatically depending on your needs. When it comes to privacy, smart is simple. Kill your camera and mute your mic at any moment with a click.
+See more of what's real
+With a high definition display, videos come to life in vibrant, crystal clear detail. Scroll less on the larger than life 3:2 aspect ratio display[1] that gives you more area to work with.
+Performance that adapts to you
+Adaptive color automatically adjusts hues, light, and ultra-vivid colors for the best viewing experience for your environment. Smart Sense adjusts to your work habits for optimal performance and includes in-bag detection so it even knows when to take a break.
+Peace of mind at your fingertips
+Keep it confidential and have total peace of mind with a fail-safe privacy camera shutter key that turns your camera off and unhackable. Keep your conversations private with the dedicated mute mic button.
+Includes HP Quickdrop
+HP Quickdrop lets you quickly share your stuff between your devices. It works with Android, iPhone, iPad, and Windows PCs and Macs.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcy7NYDuBJ8hQRD0uKPN3CwmHxoMrqd-PRCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bBvhZRdBBwFWculNOu-TVx_UeAw-8tFEYw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfC8PoFF26irtx5ZDgeec3KFE3g_Nlp5x_NA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTDwAdlQZJ39i4sfA9O9dPZP9zVam36ctdA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV_uK1UIKqcdTqpGKlAVfFGw7oD7YwBjXdw&usqp=CAU",
+    ],
+    price: 1619.99,
+    id: 94,
+    sku: "00z94",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 138,
+    sku: "00z138",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 4,
+    sku: "00z4",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 67,
+    sku: "00z67",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 183,
+    sku: "00z183",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 52,
+    sku: "00z52",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 73,
+    sku: "00z73",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 136,
+    sku: "00z136",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "ASUS ROG ZEPHYRUS G15",
+    description:
+        '''Power meets portability in the versatile ROG Zephyrus G15, which puts premium Windows 10 Pro gaming in an ultraslim 1.9kg chassis. Performance is fast and smooth with up to an AMD Ryzen™ 9 5900HS CPU and GeForce RTX™ 3080 GPU. Up to a QHD 165Hz/3ms gaming panel balances speed with rich detail to draw you deep into the action. Lush Dolby Atmos audio from six speakers immerses you in surround sound to enrich every entertainment experience.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKzb98kUpPyWE2-6JdISxibCDP4YUcPG3eQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHO216UZm1AVLCrLzVmKd7mMIDZ3IsMlr60g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm581vgFCXGScS1azD80eaXV6t1DQjGB7i4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qh3h_q_nxj2q0ZZJSiH5Zkaq29etj-acng&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx3Cs-CubRMA280Op-iFqAhmo-hhyYF93U5w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMxzn9k3QQloiPgSXg7VbAS_lV7EYpae_zA&usqp=CAU",
+    ],
+    price: 4544.23,
+    id: 103,
+    sku: "00z103",
+    categoryId: 2,
+    brandId: 6,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 78,
+    sku: "00z78",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 14,
+    sku: "00z14",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 21,
+    sku: "00z21",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 39,
+    sku: "00z39",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 18,
+    sku: "00z18",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 1,
+    sku: "00z1",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HP ENVY X360 (2020)",
+    description:
+        '''This Ryzen-powered version of HP's classy Envy x360 13 offers fast performance, a slick chassis, nifty features, and a palatable price. It's an excellent midrange 2-in-1 convertible laptop.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6DfzJCN7djYsc9EekZXhQPIIRCC7j5tMXA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1PyVTGFotOaZ2CcmXK3Q2RRjEx9_YGIHRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJ7ycAEbV8KZov_z5CR_e-YqdMy-Jmu-0w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJWFtVl9pmv0BnM9VJxsWaBC1RRuRa3W7_A&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MvcPpnwMVJ7obEAmKcFHwDWvkGk_JLYrzA&usqp=CAU",
+    ],
+    price: 619.99,
+    id: 143,
+    sku: "00z143",
+    categoryId: 2,
+    brandId: 5,
+  ),
+  ProductInfo(
+    title: "Dell XPS 13",
+    description:
+        '''            The latest base model of the Dell XPS 13 costs \$999 and has a 1.7-GHz Intel Core i3-1115G4 CPU with 8GB of RAM, a 256GB M.2 PCIe NVMe SSD, an Intel UHD Graphics GPU and a 13.4-inch, 1920 x 1200 non-touch display. The \$1,099 version upgrades you up to a 2.4-GHz Intel Core i5-1135G7 CPU and an Intel Iris Xe Graphics GPU.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aBXdLwU7RyDAUyCphad_pg1zYw-zRQtxDQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAFPL7TiwKcjI-TLlp_hkUkCF0eu2j8c2lw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5oEDyLZhrBadnXzAy5uP4UyHrsj1kTf-sg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKm34nRVFscD2LXURdh_07MoAzO0VnWQqqQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8p1oS4Og52W4cmh2QOvyxyo0Hs4ksplCuCA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO-kE_m75IDLSWwvnd8AJhO39jzjp7_FCFg&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 200,
+    sku: "00z200",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 31,
+    sku: "00z31",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "Dell VOSTRO 3501",
+    description:
+        '''Computer CPU Manufacturer IntelExternal Product ID 5397184511299Model Number VOSTRO 3501Hard Disk Interface PCIe Serial ATAProcessor Speed GHz 12 GHzHardware Platform linuxProcessor Type Core i3 10th GenerationUSB USB 20 32Brand DellVideo Controller Manufacturer IntelLaptop Family LaptopGraphics Card Capacity Shared Built inMemory Card Reader YesTouch screen NoKeyboard Languages English ArabicUsage MultiHard Disk Interface PCIe Serial ATAScreen Size Range 15 159 inchesMemory Technology DDR4Display Size Inch 156 inchesNumber of Processor Core Dual CoreExternal Product ID Type UPCAOptical Drive Type Without Optical DriveRAM Type DDR4 SODIMMRAM Size 4 GBOperating System Type UbuntuProcessor Family Intel Core i3
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqftySawCR0qOeSB2etPBpnKOzMF4Ny6iWw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-xIzs39g6DWZkEmYUg3P3UC5X6SU6wPnZA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8qHl1ANvRFn0y3Q1RTQedU6lIcPThtiApA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTknwLWUOsDDslf3K7U7DrQIEisNflB0-SQ&usqp=CAU",
+    ],
+    price: 509.52,
+    id: 62,
+    sku: "00z62",
+    categoryId: 2,
+    brandId: 4,
+  ),
+  ProductInfo(
+    title: "LG Gram 17 (2021)",
+    description:
+        '''A lean, good-looking machine that boasts a giant screen, weighs less than 3 pounds, and gets excellent battery life, the 2021 "Tiger Lake" update of the LG Gram 17 is one of the best large laptops you can buy.
+            ''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSL-bME-hIpQAmFxJevCZGPico8Mvwjy1FQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pLptW-P9fQg5qENNE35KEr1Ue3hyHIdL-w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVABeAkKqkF4nwCjbORI-sGUiYo_bk3Bjlw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlbus0tGO7oxq5u96gqNCjP1k_l01tbmJhQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtuTBBn2tGy7u3fX8Zj3E0zZMuwWUpwd_4Q&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Fnkaf2qSVq42oplKcP9mM5pfbvQNmpuRWA&usqp=CAU",
+    ],
+    price: 1621.0,
+    id: 123,
+    sku: "00z123",
+    categoryId: 2,
+    brandId: 7,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 43,
+    sku: "00z43",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
+    title: "MACBOOK AIR (LATE 2020)",
+    description:
+        '''The late-2020 MacBook Air, powered by Apple’s M1 processor, is the best laptop you can buy. The base model, which includes 8GB of RAM and 256 GB of storage, starts at \$999.
+
+          Appearance-wise, this laptop has a lot in common with the Intel-powered MacBook Air that Apple released earlier this year, including the same 2560 x 1600 screen, Touch ID, 720p webcam, fingerprint sensor, and scissor-switch keyboard.
+
+          But the new processor is the star of the show here; it’s fast. In our testing, it handled intense photo- and video-editing workloads better than almost any Intel-powered laptop we’ve tried this year. It was also able to run Shadow of the Tomb Raider at close-to-playable frame rates, which is quite a feat for integrated graphics. At launch, these apps hadn’t yet been optimized for the M1 processor and were running through Apple’s Rosetta 2 translation layer — but they still worked fine.
+
+          And the processing power didn’t even weigh down the battery life: we got between eight and 10 hours of sustained work.''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcN-7hdmb95aBDci42BZPPTmCEAw3PDEwwg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aavQ1nmGPY866M1OwhZKy0nCGHKuLICxcw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KtJxpPLsXaPeXIH6FSkEIP4ug9qU1myV9g&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhUVxHj5MEWZ1kLSnEUETYJCZWnRx6UwnCQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqEQzaFJFrgyxytMB4zn-BpSxHiybYEBG6w&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWjFGeBX1Rw9Fg3L9pdxVhTmpyEov54L4fA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbpV1tt40YskXwVkIck9jMA1P6YqdyhDXig&usqp=CAU",
+    ],
+    price: 999.0,
+    id: 33,
+    sku: "00z33",
+    categoryId: 2,
+    brandId: 2,
+  ),
+  ProductInfo(
+    title: "HUAWEI MateBook X 2020 Silver Frost",
+    description:
+        '''In stock: Windows 10 Home, 10th Gen Intel® Core™ i5-10210U, Silver Frost, 16GB+512GB,HUAWEI MateBook X 2020 Silver Frost,HUAWEI AF30 Bluetooth Mouse_Free Gift,HUAWEI CD60 Backpack HUAWEI MateBook X 2''',
+    images: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqCO_9Vx8357Q44UbfDtnphNRUV4m_PuBfQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQld9ET-9E9LIjlwNDhvxH0oK91qs5-mrdZQ&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVJpaZ66wm75PujywGSPsKUJP5bBFZT2ZMA&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr19ussMUX3gCzBYwvQ6UQ1shDxQylA9M1JQ&usqp=CAU",
+    ],
+    price: 1464.87,
+    id: 51,
+    sku: "00z51",
+    categoryId: 2,
+    brandId: 3,
+  ),
+  ProductInfo(
       id: 432,
       title: "Galaxy Note10 | Note10+‎",
       description: "This is an Galaxy Note10 | Note10+‎ Mobile",
@@ -3168,7 +10628,7 @@ List<ProductInfo> products = [
       price: 999.0,
       categoryId: 1,
       brandId: 1),
-];
+]..shuffle();
 
 List<BrandInfo> brands = [
   BrandInfo(
@@ -3179,8 +10639,98 @@ List<BrandInfo> brands = [
   ),
   BrandInfo(
     id: 2,
-    name: "IPhone",
+    name: "Apple",
     image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLugltGBhWA_04E0ZTfoObq8BA3QrDTAN2g&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 3,
+    name: "Huawei",
+    image:
+        "https://images.pond5.com/1080p-huawei-icon-spinning-alpha-footage-113963498_iconl.jpeg",
+  ),
+  BrandInfo(
+    id: 4,
+    name: "DELL",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6dOW_K5MpZn4eWgWLtVbod3TM-F-xz8L5YJCYp6sCT3F0Q93lhYjA_cqqznqIxmK0ws&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 5,
+    name: "hP",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Wd_NqAzdpmANwnsiGbKKGr_BT_ActomAxg&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 6,
+    name: "Asus",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSuxLUr3IwYUUHU6Ox3TgppdQ366H1n10lg&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 7,
+    name: "LG",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JLyIFJWPQeTpJBa0j31FELV2_QB5q2HskQ&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 8,
+    name: "Jaeger-LeCoultre",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74YtwXaMJQwovYjR6PAS6kCBabGdz8mInrQ&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 9,
+    name: "Ulysse Nardin",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoc5UruNH5kBU1X83Xwfs92evvn0f4Q7MlpQ&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 10,
+    name: "Blancpain",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDn8GyyiIeFFzxhc0r6X6q43LB3gxL4dAxbg&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 11,
+    name: "Audemars Piguet",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1kobuLiRrc7FmYJixSQBEw24QVjNfu9DFw&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 12,
+    name: "Vacheron Constantin",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRupH-rrbIpXYpZkgyrt3607BdVi6jTmx5zng&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 13,
+    name: "Patek Philippe",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw0_WALnCeq_GoxMw9svaMv5yo3HDfbNJSoQ&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 14,
+    name: "Omega",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdnqwo4d4VTLCcwA3vHu_O3CVNW42sfdssZw&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 15,
+    name: "Glashutte Original",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImTTZVOuetZJL8PPzIBac29Yn5V3YngMNkj7OkZfKL1KF7wSC23zqvR5XaQ8AyB-KKBc&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 16,
+    name: "Rolex",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqYXiyOUoma-HtnSymC5qAMxl3ht0CQcxOw&usqp=CAU",
+  ),
+  BrandInfo(
+    id: 17,
+    name: "Jaquet Droz",
+    image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVy76Yu_6sVbls3gtSO-6MSqHNMOLnyRV3YQ&usqp=CAU",
   ),
 ];

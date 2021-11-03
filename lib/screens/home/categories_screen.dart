@@ -8,6 +8,7 @@ import '../../models/models.dart';
 import '../../services/data_api.dart';
 import '../../widgets/widgets.dart';
 import 'products_screen.dart';
+import 'qr_code_scanner.dart';
 
 class CategoriesScreen extends StatefulWidget {
   const CategoriesScreen({Key? key}) : super(key: key);
@@ -226,7 +227,9 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
             ),
           ),
           GestureDetector(
-            onTap: () {},
+            onTap: () {
+              Navigator.of(context).pushNamed(QrCodeScreen.route_name);
+            },
             child: Container(
               color: Colors.transparent,
               padding: EdgeInsets.symmetric(horizontal: _size.width(19)),
