@@ -24,7 +24,6 @@ class _QrCodeScreenState extends State<QrCodeScreen> {
     controller.scannedDataStream.listen((scanData) {
       setState(() {
         result = scanData.code!;
-        print(result);
       });
     });
   }
@@ -39,10 +38,11 @@ class _QrCodeScreenState extends State<QrCodeScreen> {
   Widget build(BuildContext context) {
     Size _size = Size(context);
     return Scaffold(
-      body: Column(
+      body: Stack(
         children: [
           SizedBox(
-            height: _size.screenHeight(),
+            height:
+                _size.screenHeight() + MediaQuery.of(context).padding.bottom,
             width: double.infinity,
             child: QRView(
               overlay: QrScannerOverlayShape(
@@ -50,7 +50,7 @@ class _QrCodeScreenState extends State<QrCodeScreen> {
                 borderColor: Colors.white,
                 borderLength: _size.width(30),
                 borderWidth: 11,
-                overlayColor: MyPalette.secondary_color.withOpacity(0.9),
+                overlayColor: Colors.transparent,
               ),
               key: key,
               onQRViewCreated: _onQRViewCreated,

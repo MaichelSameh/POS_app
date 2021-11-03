@@ -58,32 +58,6 @@ class DBHelper {
                 FOREIGN KEY (list_id) REFERENCES $todoListTableName(id)
               );
             ''');
-          await db.execute('''
-              insert into $todoListTableName (id, title, date) values (1, "Today's visits", "${DateFormat(
-            "yyyy-MM-dd hh:mm:ss",
-            "en",
-          ).format(
-            DateTime.now(),
-          )}");
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (1, "Today's visits", "${DateFormat(
-            "yyyy-MM-dd hh:mm:ss",
-            "en",
-          ).format(
-            DateTime.now(),
-          )}", 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (2, "Today's visits", "${DateFormat(
-            "yyyy-MM-dd hh:mm:ss",
-            "en",
-          ).format(
-            DateTime.now(),
-          )}", 1, 0);
-              insert into $todoItemTableName (id, title, date, list_id, checked) values (3, "Today's visits", "${DateFormat(
-            "yyyy-MM-dd hh:mm:ss",
-            "en",
-          ).format(
-            DateTime.now(),
-          )}", 1, 0);
-            ''');
         },
       );
       _db = database;
