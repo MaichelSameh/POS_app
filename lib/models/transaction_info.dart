@@ -34,7 +34,7 @@ class TransactionInfo {
     _billingMethod = "billingMethod";
     _currency = "\$";
     _date = DateTime.now();
-    _price = 0.0;
+    _price = 100.0;
     _productsList = [];
   }
 

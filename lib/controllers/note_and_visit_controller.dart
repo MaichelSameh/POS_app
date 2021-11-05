@@ -9,7 +9,7 @@ import '../services/db_helper.dart';
 class NoteAndVisitController extends GetxController {
   List<NoteInfo> _notes = [];
   final DBHelper _dbHelper = DBHelper();
-
+  List<ToDoItemInfo> items = [];
   List<NoteInfo> get notes => _notes;
 
   Future<void> addList(String title) async {
@@ -32,24 +32,37 @@ class NoteAndVisitController extends GetxController {
   }
 
   Future<void> addItemToList(String title, int listID) async {
-    ToDoItemInfo.localDB(
-      await _dbHelper.insertNewListItem(title, listID),
+    items.add(
+      ToDoItemInfo.localDB(
+        await _dbHelper.insertNewListItem(title, listID),
+      ),
     );
     update();
   }
 
   Future<void> deleteItemFromList(int id) async {
     await _dbHelper.deleteListItem(id);
+    items.removeWhere((element) => element.id == id);
     update();
   }
 
-  Future<List<ToDoItemInfo>> getItems(int listId) async {
+  Future<void> getItems(int listId) async {
     List<Map<String, dynamic>> list = await _dbHelper.getListItem(listId);
     List<ToDoItemInfo> result = [];
     for (Map<String, dynamic> item in list) {
       result.add(ToDoItemInfo.localDB(item));
     }
-    return result;
+    items = result;
+    update();
+  }
+
+  Future<void> updateItemState(int id) async {
+    int result = await _dbHelper.updateItemState(id);
+    items
+        .firstWhere((element) => element.id == id)
+        .copyWith(checked: result == 1);
+
+    update();
   }
 
   @override

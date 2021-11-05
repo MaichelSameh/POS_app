@@ -26,6 +26,12 @@ class ToDoItemScreen extends StatefulWidget {
 
 class _ToDoItemScreenState extends State<ToDoItemScreen> {
   @override
+  void initState() {
+    Get.find<NoteAndVisitController>().getItems(widget.id);
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     Size _size = Size(context);
     return Container(
@@ -59,28 +65,19 @@ class _ToDoItemScreenState extends State<ToDoItemScreen> {
                   style: Theme.of(context).textTheme.headline2,
                 ),
                 SizedBox(height: _size.height(34)),
-                FutureBuilder(
-                  future:
-                      Get.find<NoteAndVisitController>().getItems(widget.id),
-                  builder: (ctx, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const PreLoader();
-                    } else {
-                      List<dynamic> list = snapshot.data as List<dynamic>;
-                      return Column(
-                        children: list
-                            .map<Widget>(
-                              (item) => ToDoItem(
-                                title: item.title,
-                                id: item.id,
-                                checked: item.checked,
-                              ),
-                            )
-                            .toList(),
-                      );
-                    }
-                  },
-                ),
+                GetBuilder<NoteAndVisitController>(builder: (controller) {
+                  return Column(
+                    children: controller.items
+                        .map<Widget>(
+                          (item) => ToDoItem(
+                            title: item.title,
+                            id: item.id,
+                            checked: item.checked,
+                          ),
+                        )
+                        .toList(),
+                  );
+                }),
                 AddNewToDo(
                   onTap: (title) {
                     Get.find<NoteAndVisitController>()

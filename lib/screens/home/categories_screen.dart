@@ -19,11 +19,11 @@ class CategoriesScreen extends StatefulWidget {
 
 class _CategoriesScreenState extends State<CategoriesScreen> {
   CategoryInfo? selectedCategory;
+  BrandInfo? selectedBrand;
 
   List<CategoryInfo> categories = [];
   List<BrandInfo> brands = [];
   DataAPI dataAPI = DataAPI();
-
   @override
   void initState() {
     super.initState();
@@ -78,7 +78,10 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
               ),
             ),
             width: double.infinity,
-            height: categories.isEmpty ? _size.height(400) : null,
+            constraints: BoxConstraints(
+              minHeight: _size.height(400),
+              minWidth: double.infinity,
+            ),
             child: Column(
               children: [
                 SizedBox(height: _size.height(36)),
@@ -164,12 +167,23 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
               () {
                 selectedCategory = categories
                     .firstWhere((element) => element.id == categoryId);
+                categories.removeWhere((element) => element.id != categoryId);
+                brands.removeWhere((element) {
+                  bool found = false;
+                  for (int id in selectedCategory!.brands) {
+                    if (element.id == id) {
+                      found = true;
+                    }
+                  }
+                  return !found;
+                });
               },
             );
           },
         ),
         const Spacer(),
-        CustomDropdownButton<String>(
+        CustomDropdownButton<int>(
+          value: selectedBrand != null ? selectedBrand!.id : null,
           maxHeight: _size.height(300),
           hint: Text(
             Get.find<AppLocalizationController>().getTranslatedValue("brands"),
@@ -177,22 +191,32 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
           ),
           height: _size.height(68),
           width: _size.width(173),
-          items: categories
-              .map<CustomDropdownButtonItem<String>>(
-                (category) => CustomDropdownButtonItem(
-                  value: category.name,
+          items: brands
+              .map<CustomDropdownButtonItem<int>>(
+                (brand) => CustomDropdownButtonItem(
+                  value: brand.id,
                   child: Text(
-                    category.name,
+                    brand.name,
                     style: Theme.of(context).textTheme.bodyText2,
                   ),
                 ),
               )
               .toList(),
-          onChange: (dynamic categoryName) {
+          onChange: (dynamic brandId) {
             setState(
               () {
-                selectedCategory = categories
-                    .firstWhere((element) => element.name == categoryName);
+                selectedBrand =
+                    brands.firstWhere((element) => element.id == brandId);
+                categories.removeWhere((element) {
+                  bool found = false;
+                  for (int id in element.brands) {
+                    if (id == brandId) {
+                      found = true;
+                      break;
+                    }
+                  }
+                  return !found;
+                });
               },
             );
           },

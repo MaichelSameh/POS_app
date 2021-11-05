@@ -26,109 +26,112 @@ class _AddNewToDoState extends State<AddNewToDo> {
   @override
   Widget build(BuildContext context) {
     Size _size = Size(context);
-    return AnimatedContainer(
-      duration: const Duration(milliseconds: 2000),
-      curve: Curves.bounceIn,
-      child: isOpen
-          ? Container(
-              width: double.infinity,
-              height: _size.height(widget.isSmall ? 110 : 140),
-              margin: EdgeInsets.only(top: _size.height(10)),
-              decoration: BoxDecoration(
-                color: Theme.of(context).primaryColor,
-                borderRadius: BorderRadius.circular(_size.width(25)),
-              ),
-              child: Row(
-                children: [
-                  GestureDetector(
-                    onTap: () {
-                      if (controller.text.isNotEmpty) {
-                        widget.onTap(controller.text);
-                        controller.clear();
-                        setState(() {
-                          isOpen = false;
-                        });
-                      }
-                    },
-                    child: Container(
-                      color: Colors.transparent,
-                      padding: EdgeInsets.symmetric(
-                        horizontal: _size.width(28),
-                        vertical: _size.height(20),
-                      ),
-                      child: Transform.rotate(
-                        angle: pi / 4,
-                        child: SvgPicture.asset(
-                          "assets/icons/cross_sign_icon.svg",
-                          width: _size.width(21),
-                          height: _size.width(21),
+    return Row(
+      children: [
+        AnimatedContainer(
+          duration: const Duration(milliseconds: 2000),
+          curve: Curves.bounceIn,
+          child: isOpen
+              ? Container(
+                  width: _size.screenWidth() - _size.width(31),
+                  height: _size.height(widget.isSmall ? 110 : 140),
+                  margin: EdgeInsets.only(top: _size.height(10)),
+                  decoration: BoxDecoration(
+                    color: Theme.of(context).primaryColor,
+                    borderRadius: BorderRadius.circular(_size.width(25)),
+                  ),
+                  child: Row(
+                    children: [
+                      GestureDetector(
+                        onTap: () {
+                          if (controller.text.isNotEmpty) {
+                            widget.onTap(controller.text);
+                            controller.clear();
+                            setState(() {
+                              isOpen = false;
+                            });
+                          }
+                        },
+                        child: Container(
+                          color: Colors.transparent,
+                          padding: EdgeInsets.symmetric(
+                            horizontal: _size.width(28),
+                            vertical: _size.height(20),
+                          ),
+                          child: Transform.rotate(
+                            angle: pi / 4,
+                            child: SvgPicture.asset(
+                              "assets/icons/cross_sign_icon.svg",
+                              width: _size.width(21),
+                              height: _size.width(21),
+                            ),
+                          ),
                         ),
                       ),
-                    ),
-                  ),
-                  SizedBox(
-                    width: _size.width(200),
-                    child: Card(
-                      elevation: 0,
-                      color: Colors.transparent,
-                      child: TextField(
-                        controller: controller,
-                        cursorColor:
-                            Theme.of(context).textTheme.headline2!.color,
-                        style: Theme.of(context).textTheme.headline2!.copyWith(
-                              fontSize: widget.isSmall ? 18 : 22,
-                              fontWeight: FontWeight.w500,
-                            ),
-                        decoration: InputDecoration(
-                          hintText: Get.find<AppLocalizationController>()
-                              .getTranslatedValue("write_title"),
-                          hintStyle:
-                              Theme.of(context).textTheme.headline2!.copyWith(
+                      SizedBox(
+                        width: _size.width(200),
+                        child: Card(
+                          elevation: 0,
+                          color: Colors.transparent,
+                          child: TextField(
+                            controller: controller,
+                            cursorColor:
+                                Theme.of(context).textTheme.headline2!.color,
+                            style:
+                                Theme.of(context).textTheme.headline2!.copyWith(
+                                      fontSize: widget.isSmall ? 18 : 22,
+                                      fontWeight: FontWeight.w500,
+                                    ),
+                            decoration: InputDecoration(
+                              hintText: Get.find<AppLocalizationController>()
+                                  .getTranslatedValue("write_title"),
+                              hintStyle: Theme.of(context)
+                                  .textTheme
+                                  .headline2!
+                                  .copyWith(
                                     fontSize: widget.isSmall ? 18 : 22,
                                     fontWeight: FontWeight.w500,
                                   ),
-                          border: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
-                          errorBorder: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
-                          enabledBorder: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
-                          focusedBorder: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
-                          focusedErrorBorder: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
-                          disabledBorder: const OutlineInputBorder(
-                              borderSide: BorderSide.none),
+                              border: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                              errorBorder: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                              enabledBorder: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                              focusedBorder: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                              focusedErrorBorder: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                              disabledBorder: const OutlineInputBorder(
+                                  borderSide: BorderSide.none),
+                            ),
+                          ),
                         ),
                       ),
-                    ),
-                  ),
-                  const Spacer(),
-                  GestureDetector(
-                    onTap: () {
-                      setState(() {
-                        isOpen = false;
-                      });
-                    },
-                    child: Container(
-                      color: Colors.transparent,
-                      padding: EdgeInsets.symmetric(
-                        horizontal: _size.width(28),
-                        vertical: _size.height(20),
+                      const Spacer(),
+                      GestureDetector(
+                        onTap: () {
+                          setState(() {
+                            isOpen = false;
+                          });
+                        },
+                        child: Container(
+                          color: Colors.transparent,
+                          padding: EdgeInsets.symmetric(
+                            horizontal: _size.width(28),
+                            vertical: _size.height(20),
+                          ),
+                          child: SvgPicture.asset(
+                            "assets/icons/cross_sign_icon.svg",
+                            width: _size.width(21),
+                            height: _size.width(21),
+                          ),
+                        ),
                       ),
-                      child: SvgPicture.asset(
-                        "assets/icons/cross_sign_icon.svg",
-                        width: _size.width(21),
-                        height: _size.width(21),
-                      ),
-                    ),
+                    ],
                   ),
-                ],
-              ),
-            )
-          : Row(
-              children: [
-                GestureDetector(
+                )
+              : GestureDetector(
                   onTap: () {
                     setState(() {
                       isOpen = true;
@@ -160,8 +163,8 @@ class _AddNewToDoState extends State<AddNewToDo> {
                     ),
                   ),
                 ),
-              ],
-            ),
+        ),
+      ],
     );
   }
 }

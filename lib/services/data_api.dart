@@ -3,11 +3,11 @@ import '../config/demo_data.dart';
 
 class DataAPI {
   Future<List<CategoryInfo>> getCategories() async {
-    return categories;
+    return demoCategories;
   }
 
   Future<List<BrandInfo>> getBrands() async {
-    return brands;
+    return demoBrands;
   }
 
   Future<List<ProductInfo>> getProducts({
@@ -15,7 +15,7 @@ class DataAPI {
     int categoryId = 0,
     int brandId = 0,
   }) async {
-    List<ProductInfo> product = products
+    List<ProductInfo> product = demoProducts
         .where((element) =>
             (element.brandId == brandId || brandId == 0) &&
             (element.categoryId == categoryId || categoryId == 0))
@@ -31,7 +31,7 @@ class DataAPI {
   }
 
   Future<ProductInfo> getProductByID(int id) async {
-    return products.firstWhere((element) => element.id == id);
+    return demoProducts.firstWhere((element) => element.id == id);
   }
 
   Future<List<TransactionInfo>> getTransactions([int pageNumber = 1]) async {

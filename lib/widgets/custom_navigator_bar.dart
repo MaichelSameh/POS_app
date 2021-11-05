@@ -90,7 +90,7 @@ class MyCustomNavigatorBar extends StatelessWidget {
         children: [
           if (hasItems)
             Positioned(
-              top: size.width(currentPage == pageNumber ? 22 : 25),
+              top: size.width(currentPage == pageNumber ? 27 : 30),
               right: Get.find<AppLocalizationController>().isRTLanguage
                   ? size.width(17)
                   : size.width(0),

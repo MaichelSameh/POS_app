@@ -212,7 +212,7 @@ class DBHelper {
         ).format(
           DateTime.now(),
         ),
-        "list_id": list,
+        "list_id": list.last["id"] + 1,
       };
     } catch (error) {
       echo(
@@ -235,6 +235,25 @@ class DBHelper {
       echo(variableName: "error", functionName: "deleteVisit", data: error);
     }
     return false;
+  }
+
+  Future<int> updateItemState(int id) async {
+    try {
+      Database database = await _initializeDatabase();
+      List<Map<String, dynamic>> list = await database.query(todoItemTableName);
+      database.update(
+        todoItemTableName,
+        {
+          "checked": list.first["checked"] == 0 ? 1 : 0,
+        },
+        where: "id = ?",
+        whereArgs: [id],
+      );
+      return list.first["checked"] == 0 ? 1 : 0;
+    } catch (error) {
+      echo(variableName: "error", functionName: "deleteVisit", data: error);
+    }
+    return 0;
   }
 
   Future<List<Map<String, dynamic>>> getListItem(int listId) async {

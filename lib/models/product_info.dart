@@ -1,13 +1,13 @@
 class ProductInfo {
-  late final int _id;
-  late final int _categoryId;
-  late final int _brandId;
-  late final List<String> _images;
-  late final String _title;
-  late final String _description;
-  late final String _currency;
-  late final String _sku;
-  late final double _price;
+  late int _id;
+  late int _categoryId;
+  late int _brandId;
+  late List<String> _images;
+  late String _title;
+  late String _description;
+  late String _currency;
+  late String _sku;
+  late double _price;
 
   int get id => _id;
   int get brandId => _brandId;
@@ -74,5 +74,27 @@ class ProductInfo {
     _sku = jsonData["sku"];
     _categoryId = jsonData["category_id"];
     _brandId = jsonData["brand_id"];
+  }
+
+  void copyWith({
+    String? title,
+    String? description,
+    List<String>? images,
+    double? price,
+    int? id,
+    String? sku,
+    int? categoryId,
+    int? brandId,
+    String? currency,
+  }) {
+    _title = title ?? _title;
+    _description = description ?? _description;
+    _images = images ?? _images;
+    _price = price ?? _price;
+    _id = id ?? _id;
+    _sku = sku ?? _sku;
+    _categoryId = categoryId ?? _categoryId;
+    _brandId = brandId ?? _brandId;
+    _currency = currency ?? _currency;
   }
 }

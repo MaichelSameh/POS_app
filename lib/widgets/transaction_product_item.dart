@@ -58,9 +58,11 @@ class TransactionProductItem extends StatelessWidget {
             SizedBox(width: _size.width(27)),
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 SizedBox(
                   height: _size.height(21),
+                  width: _size.width(200),
                   child: Text(
                     product.title,
                     style: Theme.of(context).textTheme.bodyText2!.copyWith(

@@ -71,24 +71,32 @@ class _ProductsScreenState extends State<ProductsScreen> {
                     topRight: Radius.circular(_size.width(40)),
                   ),
                 ),
-                height: products.isEmpty ? _size.height(750) : null,
-                child: Column(
-                  children: [
-                    SizedBox(height: _size.height(40)),
-                    Hero(
-                      tag: category.name,
-                      child: Text(
-                        category.name,
-                        style: Theme.of(context).textTheme.bodyText2!.copyWith(
-                              fontSize: 28,
-                              fontWeight: FontWeight.bold,
-                            ),
-                      ),
-                    ),
-                    SizedBox(height: _size.height(35)),
-                    _buildProductsList(_size),
-                  ],
+                constraints: BoxConstraints(
+                  minHeight: _size.screenHeight() - _size.height(150),
+                  minWidth: double.infinity,
                 ),
+                child: products.isEmpty
+                    ? const Center(child: Text("No products found"))
+                    : Column(
+                        children: [
+                          SizedBox(height: _size.height(40)),
+                          Hero(
+                            tag: category.name,
+                            child: Text(
+                              category.name,
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .bodyText2!
+                                  .copyWith(
+                                    fontSize: 28,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                            ),
+                          ),
+                          SizedBox(height: _size.height(35)),
+                          _buildProductsList(_size),
+                        ],
+                      ),
               ),
             ],
           ),

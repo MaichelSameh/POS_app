@@ -38,25 +38,21 @@ class _QrCodeScreenState extends State<QrCodeScreen> {
   Widget build(BuildContext context) {
     Size _size = Size(context);
     return Scaffold(
-      body: Stack(
-        children: [
-          SizedBox(
-            height:
-                _size.screenHeight() + MediaQuery.of(context).padding.bottom,
-            width: double.infinity,
-            child: QRView(
-              overlay: QrScannerOverlayShape(
-                borderRadius: _size.width(25),
-                borderColor: Colors.white,
-                borderLength: _size.width(30),
-                borderWidth: 11,
-                overlayColor: Colors.transparent,
-              ),
-              key: key,
-              onQRViewCreated: _onQRViewCreated,
-            ),
+      body: SizedBox(
+        height: double.infinity,
+        width: double.infinity,
+        child: QRView(
+          overlay: QrScannerOverlayShape(
+            borderRadius: _size.width(25),
+            borderColor: Colors.white,
+            borderLength: _size.width(30),
+            borderWidth: _size.width(15),
+            overlayColor: MyPalette.secondary_color.withOpacity(0.95),
+            cutOutSize: _size.width(250),
           ),
-        ],
+          key: key,
+          onQRViewCreated: _onQRViewCreated,
+        ),
       ),
     );
   }
